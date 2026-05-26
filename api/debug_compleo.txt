@@ -1,0 +1,42 @@
+HTTP Code: {"result":"success","error":null,"id":"3756802","affiliate campaign":"1063","purchase id":"10506496"}
+Output type: object
+Output: stdClass Object
+(
+    [result] => success
+    [error] => 
+    [id] => 3756802
+    [affiliate campaign] => 1063
+    [purchase id] => 10506496
+)
+
+
+Response after decode: stdClass Object
+(
+    [result] => success
+    [error] => 
+    [id] => 3756802
+    [affiliate campaign] => 1063
+    [purchase id] => 10506496
+)
+
+HTTP Code: {"result":"success","error":null,"id":"3756804","affiliate campaign":"1063","purchase id":"10506499"}
+Output type: object
+Output: stdClass Object
+(
+    [result] => success
+    [error] => 
+    [id] => 3756804
+    [affiliate campaign] => 1063
+    [purchase id] => 10506499
+)
+
+
+Response after decode: stdClass Object
+(
+    [result] => success
+    [error] => 
+    [id] => 3756804
+    [affiliate campaign] => 1063
+    [purchase id] => 10506499
+)
+
