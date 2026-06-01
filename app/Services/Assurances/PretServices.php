@@ -91,7 +91,12 @@ class PretServices extends \App\Services\ApiService
             ];
         }
 
-        $data = FiliassurSubServices::make_assurance_pret_datas($classics, $specifics);
+        // $data = FiliassurSubServices::make_assurance_pret_datas($classics, $specifics);
+        if ($id === "assurance#4") {
+            $data = FiliassurSubServices::make_assurance_pret_datas($classics, $specifics);
+        } else {
+            $data = FiliassurSubServices::make_mutuelle_sante_datas($classics, $specifics);
+        }
         parent::logger('../logs/assurance/' . $logs . 'before.json', $data);
 
         $json_data = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);

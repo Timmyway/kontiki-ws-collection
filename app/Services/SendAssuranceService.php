@@ -105,8 +105,7 @@ class SendAssuranceService
                     "assurance_emprunteur",
                     "assurance emprunteur"
                 );
-            case 'assurance#29':
-                return     
+              
             default:
                 return [
                     "status"       => "error",
