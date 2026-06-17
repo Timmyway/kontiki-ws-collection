@@ -1,5 +1,5 @@
-mysqli_sql_exception: Duplicate entry '103086-50-1-47' for key 'leads_has_clients.PRIMARY' in C:\Users\test-2\Desktop\deplacer\ws-colections-22-08-2025 (2)\ws-colections-22-08-2025\app\Controllers\LeadsController.php:346
+mysqli_sql_exception: Column 'clients_id' cannot be null in D:\laragon\www\kontiki-ws-collection\app\Controllers\LeadsController.php:346
 Stack trace:
-#0 C:\Users\test-2\Desktop\deplacer\ws-colections-22-08-2025 (2)\ws-colections-22-08-2025\app\Controllers\LeadsController.php(346): mysqli->query('insert into lea...')
-#1 C:\Users\test-2\Desktop\deplacer\ws-colections-22-08-2025 (2)\ws-colections-22-08-2025\api\send.php(175): App\Controllers\LeadsController::save_leads_has_clients(Object(mysqli), '2026-03-18 09:4...', 'kontiki-50', 103086, Array, 'CONFLUENT DIGIT...')
+#0 D:\laragon\www\kontiki-ws-collection\app\Controllers\LeadsController.php(346): mysqli->query('insert into lea...')
+#1 D:\laragon\www\kontiki-ws-collection\api\send.php(175): App\Controllers\LeadsController::save_leads_has_clients(Object(mysqli), '2026-06-17 15:1...', 'kontiki-18', 114162, Array, NULL)
 #2 {main}

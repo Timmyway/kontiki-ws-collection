@@ -6,6 +6,7 @@ use App\Services\SubServices\BatiwebSubServices;
 use App\Services\SubServices\LeadsFRSubServices;
 use App\Services\SubServices\OceadsSubServices;
 use App\Services\SubServices\PerfusionDigitalSubServices;
+use App\Services\SubServices\ProsperaleadsSubServices;
 use App\Services\SubServices\YacuzaSubServices;
 use App\Services\Travaux\ClimatisationServices;
 use App\Services\Travaux\DoucheServices;
@@ -99,6 +100,9 @@ class SendTravauxService
                 return PerfusionDigitalSubServices::send($this->travauxModel, "PV");
             case 'pannsol#23':
                 return PacServices::cpryDigital($this->travauxModel, "PV");
+            case 'pannsol#24':
+                return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "PV");
+
             case 'pag#1':
                 return ApiService::common_send_dataopp($this->travauxModel, "travaux/poele_dataopp", "41", "poele-granules", "pag", "poele a granules");
             case 'iso#1':
@@ -129,6 +133,8 @@ class SendTravauxService
                 return PacServices::cpryDigital($this->travauxModel, "ITE");
             case 'iso#12':
                 return IsolationServices::FlexyLead($this->travauxModel, "ITE");
+            case 'iso#13':
+                return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "ITE");
 
             case 'energy#1':
                 return EniServices::send_eni($this->travauxModel);
@@ -184,7 +190,9 @@ class SendTravauxService
             case 'pac#24':
                 return PacServices::cpryDigital($this->travauxModel, "PAC");
             case 'pac#25':
-                return PacServices::send_meedia_moov($this->travauxModel, "PAC");    
+                return PacServices::send_meedia_moov($this->travauxModel, "PAC");   
+            case 'pac#26':
+                return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "PAC"); 
             case 'douche#1':
                 return DoucheServices::send_lead_creative($this->travauxModel);
             case 'douche#2':

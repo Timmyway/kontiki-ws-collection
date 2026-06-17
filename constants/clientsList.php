@@ -29,6 +29,7 @@ $clients = [
     "pannsol#21"   => "LEAD VALUE",        // (LEAD VALUE panneau solaire)
     "pannsol#22"   => "PERFUSION DIGITAL", // (PERFUSION DIGITAL panneau solaire)
     "pannsol#23"   => "CPRY_DIGITAL",      //    "pannsol CPRY_DIGITAL"
+    "pansol#24"    => "prosperaleads",     // (prosperaleads panneau solaire)
     /**
      * defiscalisation/Pinel clients
      */
@@ -63,6 +64,7 @@ $clients = [
     "iso#10"       => "CONFLUENT DIGITAL", //confluent digital isolation nouveaux
     "iso#11"       => "CPRY_DIGITAL",
     "iso#12"       => "Flexylead", //ite flexyleads
+    "iso#13"       => "prosperaleads", //prosperaleads isolation
 
     /**
      * assurance
@@ -138,6 +140,7 @@ $clients = [
     "pac#23"       => "PERFUSION DIGITAL",
     "pac#24"       => "CPRY_DIGITAL", //PAC
     "pac#25"       => "Mediamoov",
+    "pac#26"       => "prosperaleads", //prosperaleads pompe a chaleur
     /**
      * rachat de credits
      */
