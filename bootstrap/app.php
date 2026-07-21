@@ -22,7 +22,7 @@ $username = "leadmarket";
     // $hostname = "localhost";
     // $db_name = "lead_market_place";
     $username = "root";
-    $password = "root";
+    $password = "";
     $hostname = "localhost";
     $db_name = "lead_market_place";
  

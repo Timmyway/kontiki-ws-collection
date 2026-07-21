@@ -34,6 +34,7 @@ class AssuranceController
             "custom_field_5" => $input_data['custom_field_5'] ?? '',
             "custom_field_6" => $input_data['custom_field_6'] ?? '',
             "custom_field_7" => $input_data['custom_field_7'] ?? '',
+            "custom_field_8" => $input_data['custom_field_8'] ?? '',
         );
 
         return $assurance_data;
@@ -71,9 +72,9 @@ class AssuranceController
     {
         $encoded_amount = isset($assurance_data['amount']) ? base64_encode($assurance_data['amount']) : '';
         try {
-            $stmt = mysqli_prepare($conn, "UPDATE assurances SET montant_pret=?, taux_pret=?, duree_pret=?, quote_type=?, professionnal_situation=?, custom_field_1=?, custom_field_2=?, custom_field_3=?, custom_field_4=?, custom_field_5=?, custom_field_6=? , custom_field_7=? WHERE leads_id=?");
+            $stmt = mysqli_prepare($conn, "UPDATE assurances SET montant_pret=?, taux_pret=?, duree_pret=?, quote_type=?, professionnal_situation=?, custom_field_1=?, custom_field_2=?, custom_field_3=?, custom_field_4=?, custom_field_5=?, custom_field_6=? , custom_field_7=?, custom_field_8=? WHERE leads_id=?");
 
-            mysqli_stmt_bind_param($stmt, 'ssssssssssssi', $encoded_amount, $assurance_data['rate'], $assurance_data['duration'], $assurance_data['quote_type'], $assurance_data["profession"], $assurance_data['custom_field_1'], $assurance_data['custom_field_2'], $assurance_data['custom_field_3'], $assurance_data['custom_field_4'], $assurance_data['custom_field_5'], $assurance_data['custom_field_6'], $assurance_data['custom_field_7'], $lead['lead_id']);
+            mysqli_stmt_bind_param($stmt, 'sssssssssssssi', $encoded_amount, $assurance_data['rate'], $assurance_data['duration'], $assurance_data['quote_type'], $assurance_data["profession"], $assurance_data['custom_field_1'], $assurance_data['custom_field_2'], $assurance_data['custom_field_3'], $assurance_data['custom_field_4'], $assurance_data['custom_field_5'], $assurance_data['custom_field_6'], $assurance_data['custom_field_7'], $assurance_data['custom_field_8'], $lead['lead_id']);
 
             if (mysqli_stmt_execute($stmt)) {
                 // update successful

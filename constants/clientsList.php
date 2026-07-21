@@ -98,6 +98,7 @@ $clients = [
     "assurance#27" => "CONFLUENT DIGITAL", //Mutuelle senior de "CONFLUENT DIGITAL"
     "assurance#28" => "DATA OPP",
     "assurance#29" => "test",
+    "assurance#30" => "CONFLUENT DIGITAL", //animaux de "CONFLUENT DIGITAL"
     /**
      * security
      */

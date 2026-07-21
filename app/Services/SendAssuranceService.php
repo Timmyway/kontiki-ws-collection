@@ -95,7 +95,8 @@ class SendAssuranceService
                 return ApiService::common_send_leadvalue_mutuelle($this->assuranceModel, "9", "assurance/leadvalue", "MUTUELLE SENIOR");
             case 'assurance#27':
                 return PretServices::confluentDigital_mutuel_senior($this->assuranceModel, "MUTUELLE SENIOR");
-
+            case 'assurance#30':
+                return PretServices::confluentDigital_animaux($this->assuranceModel, "ASSURANCE ANIMAUX");
             case 'assurance#28':
                 return ApiService::common_send_dataopp_assurance(
                     $this->assuranceModel,

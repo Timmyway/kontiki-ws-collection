@@ -128,7 +128,7 @@ class SavesRequests
     public static function save_assurance_query($assurance_data, $lead, $login_data): string
     {
         error_log("Version corrigée utilisée");
-        return 'insert into assurances (bank, property_assurance, objectif_assurance, montant_pret, quote_type, taux_pret, duree_pret, professionnal_situation, custom_field_1, custom_field_2, custom_field_3, custom_field_4, custom_field_5, custom_field_6, custom_field_7,
+        return 'insert into assurances (bank, property_assurance, objectif_assurance, montant_pret, quote_type, taux_pret, duree_pret, professionnal_situation, custom_field_1, custom_field_2, custom_field_3, custom_field_4, custom_field_5, custom_field_6, custom_field_7, custom_field_8,
          leads_id, leads_fournisseurs_id, leads_fournisseurs_tags_id)
             VALUES (
                 \'' . base64_encode($assurance_data['bank'] ?? '') . '\',
@@ -146,6 +146,7 @@ class SavesRequests
                 \'' . base64_encode($assurance_data['custom_field_5'] ?? '') . '\',
                 \'' . ($assurance_data['custom_field_6'] ?? '') . '\',
                 \'' . ($assurance_data['custom_field_7'] ?? '') . '\',
+                \'' . ($assurance_data['custom_field_8'] ?? '') . '\',
                 \'' . $lead["lead_id"] . '\' ,
                 (select id from fournisseurs where login=\'' . $login_data['partname'] . '\'),
                 (select tags_id from fournisseurs where login=\'' . $login_data['partname'] . '\')

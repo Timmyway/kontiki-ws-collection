@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Services\Assurances;
 
 use App\Providers\CurlProvider;
@@ -68,17 +69,17 @@ class PretServices extends \App\Services\ApiService
         if ($id === "assurance#4") {
             // Assurance emprunteur
             $username = "5186_C_EMP_EX_BUDGET_DEVIS_WEB_EMAIL";
-                                                                  // $password = "99f528bc-0824-4068-84dd-abcb91dd9814"; // clé de prod
+            // $password = "99f528bc-0824-4068-84dd-abcb91dd9814"; // clé de prod
             $password = "T_80bcc25b-fc1b-4c30-aa84-3c393e8c383d"; // clé de preprod
 
             $logs = "emprunteur_iki_";
         } else if ($id === "assurance#5") {
             // Mutuelle Santé
             $username = "5185_C_SAN_EX_BUDGET_DEVIS_SENIOR_WEB_EMAIL";
-                                                                  // $username = "5280_T_SAN_EX_LEAD_CREATIVE_SANTE_SENIOR_WEB";
-                                                                  // $password = "99f528bc-0824-4068-84dd-abcb91dd9814"; // clé de prod
+            // $username = "5280_T_SAN_EX_LEAD_CREATIVE_SANTE_SENIOR_WEB";
+            // $password = "99f528bc-0824-4068-84dd-abcb91dd9814"; // clé de prod
             $password = "T_80bcc25b-fc1b-4c30-aa84-3c393e8c383d"; // clé de preprod
-                                                                  // $password = "T_6c6f6f77-33e5-46d8-a1bc-c041605dbbc8"; // clé de preprod
+            // $password = "T_6c6f6f77-33e5-46d8-a1bc-c041605dbbc8"; // clé de preprod
 
             $logs = "sante_iki_";
         } else {
@@ -190,28 +191,28 @@ class PretServices extends \App\Services\ApiService
             // Mutuelle Santé
             $username = "5185_C_SAN_EX_BUDGET_DEVIS_SENIOR_WEB_EMAIL";
             //$username = "5280_T_SAN_EX_LEAD_CREATIVE_SANTE_SENIOR_WEB";
-            
-			//$username = "5282_C_SAN_NEX_BUDGET_DEVIS_SANTE_WEB";
-            
-			// $password = "99f528bc-0824-4068-84dd-abcb91dd9814"; // clé de prod
+
+            //$username = "5282_C_SAN_NEX_BUDGET_DEVIS_SANTE_WEB";
+
+            // $password = "99f528bc-0824-4068-84dd-abcb91dd9814"; // clé de prod
             $password = "T_80bcc25b-fc1b-4c30-aa84-3c393e8c383d"; // clé de preprod
             //$password = "T_6c6f6f77-33e5-46d8-a1bc-c041605dbbc8";
             $logs = "sante_filiassur_";
-			$classics  = $assuranceModel->getClassics();
-			$specifics = $assuranceModel->getSpecifics();
+            $classics  = $assuranceModel->getClassics();
+            $specifics = $assuranceModel->getSpecifics();
 
-			// 🔒 Blocage si âge > 80 ans
-			$age = self::calculateAge($classics['birthdate'] ?? null);
+            // 🔒 Blocage si âge > 80 ans
+            $age = self::calculateAge($classics['birthdate'] ?? null);
 
-			if ($age > 80) {
-				return [
-					"status"       => "error",
-					"api_response" => null,
-					"id_part"      => "",
-					"ws_statut"    => "blocked",
-					"description"  => "Lead bloqué : âge supérieur à 80 ans ({$age} ans)",
-				];
-			}
+            if ($age > 80) {
+                return [
+                    "status"       => "error",
+                    "api_response" => null,
+                    "id_part"      => "",
+                    "ws_statut"    => "blocked",
+                    "description"  => "Lead bloqué : âge supérieur à 80 ans ({$age} ans)",
+                ];
+            }
         } else {
             return [
                 "status"       => "error",
@@ -252,7 +253,7 @@ class PretServices extends \App\Services\ApiService
 
         // ✅ INITIALISER $json_response À NULL PAR DÉFAUT
         $json_response = null;
-       
+
         if ($output === false) {
             $error = curl_error($curl);
             curl_close($curl);
@@ -297,7 +298,7 @@ class PretServices extends \App\Services\ApiService
         // Traiter la réponse
         return FiliassurSubServices::make_assurance_pret_responses($json_response, $output);
     }
-	
+
 
     public static function send_persee_media_old($assuranceModel)
     {
@@ -626,7 +627,6 @@ class PretServices extends \App\Services\ApiService
             curl_close($curl);
 
             return MontEscalierServices::make_mediamoov_responses($output);
-
         } catch (Exception $e) {
             parent::logger('../logs/assurance/mediamoov_exception.json', [
                 'message' => $e->getMessage(),
@@ -634,7 +634,6 @@ class PretServices extends \App\Services\ApiService
             ]);
             return parent::common_internal_server_error();
         }
-
     }
 
     public static function send_meedia_moov_emprunteur($assuranceModel, $type = null)
@@ -718,7 +717,6 @@ class PretServices extends \App\Services\ApiService
             parent::logger('../logs/assurance/mediamoov_emprunteur_after.json', $final_response);
 
             return $final_response;
-
         } catch (Exception $e) {
             // 🔹 LOG D'EXCEPTION
             parent::logger('../logs/assurance/mediamoov_emprunteur_exception.json', [
@@ -930,7 +928,6 @@ class PretServices extends \App\Services\ApiService
 
                 ];
             }
-
         } catch (\Exception $e) {
             return parent::common_internal_server_error();
         }
@@ -978,4 +975,98 @@ class PretServices extends \App\Services\ApiService
         return $phone;
     }
 
+    public static function confluentDigital_animaux($assuranceModel)
+    {
+        $classics  = $assuranceModel->getClassics();
+        $specifics = $assuranceModel->getSpecifics();
+
+        // $url = "https://service.comparerchanger.com/__ws/send_lead.php"
+        
+        $url     = "https://service.comparer-changer.com/__ws/send_lead_test.php";
+        $logfile = "confluent_digital_animaux";
+
+        $civModelId = [
+            'mr'  => "homme",
+            'mme' => "femme",
+        ];
+
+        $petTypeMap = [
+            'chien' => 'dog',
+            'chat'  => 'cat',
+            'NAC'   => 'other',
+        ];
+
+        $petChipMap = [
+            'tatoue' => 'yes',
+            'puce'   => 'yes',
+            'rien'   => 'no',
+        ];
+
+        $token = '92112cd7c474af2797b92435e6b9847735e2daaa';
+
+        $birthdateFormatted    = self::formatBirthdate($classics['birthdate'] ?? null);
+        $petBirthdateFormatted = self::formatBirthdate($specifics['custom_field_2'] ?? null);
+
+        try {
+            $data = [
+                'url_source'       => $classics['referer'] ?? '',
+                'interest_area_id' => 2,
+                'token'            => $token,
+                'ip'               => $classics['ip'],
+                'gender'           => $civModelId[$classics['civility']] ?? '',
+                'firstname'        => $classics['firstname'] ?? '',
+                'name'             => $classics['lastname'] ?? '',
+                'address'          => $classics['address'] ?? '',
+                'zipcode'          => $classics['zipcode'] ?? '',
+                'city'             => $classics['city'] ?? '',
+                'email'            => $classics['email'] ?? '',
+                'phone'            => self::formatPhone($classics['phone'] ?? ''),
+                'birthday'         => $birthdateFormatted,
+
+                'pet_type'         => $petTypeMap[$specifics['custom_field_1']] ?? 'other',
+                'pet_race'         => $specifics['custom_field_5'] ?? '',
+                'pet_name'         => $specifics['custom_field_7'] ?? '',
+                'pet_birthday'     => $petBirthdateFormatted,
+                'pet_chip'         => $petChipMap[$specifics['custom_field_4']] ?? 'no',
+                'pet_gender'       => $specifics['custom_field_8'] ?? '',     
+                'optin_cgu'        => $classics['optin_cgu'] ?? 1,
+                'optin_partners'   => $classics['optin_partners'] ?? 1,
+
+               'get_params'       => json_encode([
+                    'vaccins_a_jour' => $specifics['custom_field_3'] ?? '',
+                    'deja_assure'    => $specifics['custom_field_6'] ?? '',
+                ]),
+            ];
+
+            parent::logger('../logs/assurance/' . $logfile . '_before.json', $data);
+
+            $curl_response = CurlProvider::post_requests($url, [], $data);
+            $responses     = json_decode($curl_response[0], true);
+
+            parent::logger('../logs/assurance/' . $logfile . '_after.json', $responses);
+
+            if (
+                ($responses['status'] ?? null) === "recorded"
+                || ($responses['status'] ?? null) === "Test Saved"
+            ) {
+                return [
+                    "status"       => "success",
+                    "api_response" => $curl_response,
+                    "id_part"      => $responses['infos'] ?? '',
+                    "ws_statut"    => "ok",
+                    "description"  => "lead has been send successfully to CONFLUENT DIGITAL ANIMAUX",
+                ];
+            } else {
+                return [
+                    "status"       => "error",
+                    "api_response" => $curl_response,
+                    "id_part"      => "",
+                    "ws_statut"    => "error",
+                    "description"  => $responses['infos'] ?? "error sending leads to CONFLUENT DIGITAL ANIMAUX",
+                ];
+            }
+        } catch (\Exception $e) {
+            return parent::common_internal_server_error();
+        }
+    }
 }

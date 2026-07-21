@@ -124,7 +124,7 @@ class CurrentRequests
         } elseif (in_array($partenaire, $partners["insurances"])) {
             /* --- for tag = INSURANCES --- */
             return $begin_query . ' assurances.bank, assurances.property_assurance, assurances.objectif_assurance, 
-            assurances.montant_pret, assurances.quote_type, assurances.taux_pret, assurances.duree_pret, assurances.professionnal_situation as situationPro, assurances.custom_field_1, assurances.custom_field_2, assurances.custom_field_3, assurances.custom_field_4, assurances.custom_field_5, assurances.custom_field_6 , assurances.custom_field_7
+            assurances.montant_pret, assurances.quote_type, assurances.taux_pret, assurances.duree_pret, assurances.professionnal_situation as situationPro, assurances.custom_field_1, assurances.custom_field_2, assurances.custom_field_3, assurances.custom_field_4, assurances.custom_field_5, assurances.custom_field_6 , assurances.custom_field_7, assurances.custom_field_8
             FROM leads INNER JOIN assurances ON assurances.leads_id = leads.id ' . $end_query;
         } elseif (in_array($partenaire, $partners["formations"])) {
             /* --- for tag = FORMATIONS --- */

@@ -1,0 +1,5 @@
+mysqli_sql_exception: Unknown column 'custom_field_8' in 'field list' in D:\laragon\www\kontiki-ws-collection\app\Controllers\AssuranceController.php:56
+Stack trace:
+#0 D:\laragon\www\kontiki-ws-collection\app\Controllers\AssuranceController.php(56): mysqli->query('insert into ass...')
+#1 D:\laragon\www\kontiki-ws-collection\api\insert.php(234): App\Controllers\AssuranceController::save_assurance(Object(mysqli), Array, Array, Array)
+#2 {main}
