@@ -3,18 +3,19 @@ namespace App\Services;
 
 use App\Models\ApiModel as TravauxModel;
 use App\Services\SubServices\BatiwebSubServices;
+use App\Services\SubServices\DevisPlusSubService;
 use App\Services\SubServices\LeadsFRSubServices;
 use App\Services\SubServices\OceadsSubServices;
 use App\Services\SubServices\PerfusionDigitalSubServices;
 use App\Services\SubServices\ProsperaleadsSubServices;
 use App\Services\SubServices\YacuzaSubServices;
-use App\Services\Travaux\ClimatisationServices;
 use App\Services\Travaux\DoucheServices;
 use App\Services\Travaux\EniServices;
 use App\Services\Travaux\IsolationServices;
 use App\Services\Travaux\PacServices;
 use App\Services\Travaux\PanneauServices;
 use App\Services\Travaux\ViteundevisServices;
+use App\Services\Travaux\ClimatisationServices;
 
 class SendTravauxService
 {
@@ -97,11 +98,13 @@ class SendTravauxService
             case 'pannsol#20':
                 return ViteundevisServices::send($this->travauxModel, 'pannsol#20');
             case 'pannsol#22':
-                return PerfusionDigitalSubServices::send($this->travauxModel, "PV");
-            case 'pannsol#23':
+				return PerfusionDigitalSubServices::send($this->travauxModel, "PV");  
+			case 'pannsol#23':
                 return PacServices::cpryDigital($this->travauxModel, "PV");
             case 'pannsol#24':
                 return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "PV");
+            case 'pannsol#25':
+                return DevisPlusSubService::send($this->travauxModel, "PV");
 
             case 'pag#1':
                 return ApiService::common_send_dataopp($this->travauxModel, "travaux/poele_dataopp", "41", "poele-granules", "pag", "poele a granules");
@@ -125,21 +128,24 @@ class SendTravauxService
             case 'iso#8':
                 return ViteundevisServices::send($this->travauxModel, 'iso#8');
             case 'iso#9':
-                return PerfusionDigitalSubServices::send($this->travauxModel, "ITE");
-            case 'iso#10':
-                // return IsolationServices::oceads_isolation($this->travauxModel, "ITE");
+                return PerfusionDigitalSubServices::send($this->travauxModel, "ITE");  
+			case 'iso#10':
                 return OceadsSubServices::send_oceads($this->travauxModel, "ITE");
-            case 'iso#11':
+			case 'iso#11':
                 return PacServices::cpryDigital($this->travauxModel, "ITE");
             case 'iso#12':
                 return IsolationServices::FlexyLead($this->travauxModel, "ITE");
             case 'iso#13':
                 return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "ITE");
+            case 'iso#14':
+                return DevisPlusSubService::send($this->travauxModel, "ITE");
 
             case 'energy#1':
                 return EniServices::send_eni($this->travauxModel);
-            case 'energy#2':
+			case 'energy#2':
                 return EniServices::send_euro_crm($this->travauxModel);
+            case 'energy#3':
+                return EniServices::Flexylead($this->travauxModel);
             case 'pac#1':
                 return ApiService::common_send_leadvalue($this->travauxModel, "127", "travaux/pac_leadvalue", "pompe a chaleur");
             case 'pac#3':
@@ -186,29 +192,36 @@ class SendTravauxService
             case 'pac#22':
                 return PacServices::confluentDigital($this->travauxModel, "PAC");
             case 'pac#23':
-                return PerfusionDigitalSubServices::send($this->travauxModel, "PAC");
-            case 'pac#24':
+                return PerfusionDigitalSubServices::send($this->travauxModel, "PAC");    
+			case 'pac#24':
                 return PacServices::cpryDigital($this->travauxModel, "PAC");
             case 'pac#25':
-                return PacServices::send_meedia_moov($this->travauxModel, "PAC");   
+                return PacServices::send_meedia_moov($this->travauxModel, "PAC");	
             case 'pac#26':
-                return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "PAC"); 
+                return ProsperaleadsSubServices::send_prosperaleads($this->travauxModel, "PAC");
+            case 'pac#27':
+                return DevisPlusSubService::send($this->travauxModel, "PAC");
+                
             case 'douche#1':
                 return DoucheServices::send_lead_creative($this->travauxModel);
             case 'douche#2':
                 return ApiService::common_send_goracash($this->travauxModel, "120176786", "travaux/douche_goracash");
             case 'douche#3':
                 return ViteundevisServices::send($this->travauxModel, 'douche#3');
-            case 'douche#4':
+			case 'douche#4':
                 return DoucheServices::confluentDigital($this->travauxModel, "douche");
+            case 'douche#5':
+                return DevisPlusSubService::send($this->travauxModel, "douche");
+            
             case 'fenetre#1':
                 return IsolationServices::AstonGroup($this->travauxModel, "FENETRE DE TOIT ET VERRIERE");
             case 'fenetre#2':
                 return ApiService::common_send_goracash($this->travauxModel, "174511091", "travaux/fenetre_reparation_goracash");
             case 'fenetre#3':
                 return ViteundevisServices::send($this->travauxModel, 'fenetre#3');
-            case 'clim#1':
+			case 'clim#1':
                 return ClimatisationServices::confluentDigital($this->travauxModel, "clim#1");
+
             default:
                 return [
                     "status"       => "error",

@@ -1,0 +1,76 @@
+api/
+    --auth.php
+    --benchmark.php
+    --current.php
+    --discarded.php
+    --export.php
+    --insert.php
+    --ping.php
+    --scheduler.php
+    --send.php
+    --statistics.php
+    --update.php
+    --validated.php
+
+app/
+    /Controllers/
+        --AssuranceAutoController.php
+        --AssuranceController.php
+        --AssuranceSanteController.php
+        --AuthController.php
+        --DefiscController.php
+        --FormationController.php
+        --LeadsController.php
+        --LoginController.php
+        --RachatCreditController.php
+        --SecurityController.php
+        --StatisticsController.php
+        --TravauxController.php
+
+    /Models/
+        --ApiModel.php
+        --LoginModel.php
+        --PingModel.php
+    /Providers/
+        --CityProvider.php
+        --ConnexionProvider.php
+        --CurlProvider.php
+        --DeliveryDestinationProvider.php
+        --ExcelCreatorProvider.php
+        --ExcelWriterProvider.php
+        --PartenerProvider.php
+        --PhoneNumberProvider.php
+        --SftpUploaderProvider.php
+        --TimeProvider.php
+    /Requests
+        --CurrentRequests.php
+        --DiscardedRequests.php
+        --SavesRequests.php
+        --ValidatedRequest.php
+    /Services/
+        --ApiService.php
+        --PingService.php
+        --SendAssuranceAutoService.php
+        --SendDefiscsService.php
+        --SendFinancesService.php
+        --SendFormationService.php
+        --SendSecurityService.php
+        --SendTravauxService.php
+        /AssuranceAuto/--
+        /Assurances/--
+        /Defiscalisations/--
+        /Finances/--
+        /Formations/--
+        /Securites/--
+        /Travaux/--
+
+/bootstrap/
+    --app.php
+/constants/
+    --clientsList.php
+    --configs.php
+    --parteners.php
+/external/
+    --insert.php
+/logs/
+/vendor

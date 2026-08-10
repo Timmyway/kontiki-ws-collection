@@ -1,6 +1,7 @@
 <?php
 namespace App\Services\Travaux;
 
+use App\Providers\CurlProvider;
 use App\Providers\ExcelCreatorProvider;
 use App\Providers\ExcelWriterProvider;
 use App\Providers\PhoneNumberProvider;
@@ -208,4 +209,104 @@ class EniServices extends \App\Services\ApiService
             return parent::common_internal_server_error();
         }
     }
+
+    public static function FlexyLead($travauxModel)
+    {
+        $classics = $travauxModel->getClassics();
+        $specifics = $travauxModel->getSpecifics();
+
+        $baseUrl = "https://flexlead.leadbyte.co.uk/api/submit.php";
+
+        $birthdate = $classics['birthdate'] ?? "22/01/1980";
+
+        $date = DateTime::createFromFormat('d/m/Y', $birthdate);
+
+        // IMPORTANT : format demandé par FlexyLead
+        $birthdateFormatted = $date
+            ? $date->format('d/m/Y')
+            : '22/01/1980';
+        $offre = [
+            'electricite'   => 'Électricité',
+            'gaz'           => 'Gaz',
+            'elec_gaz'      => 'Électricité et Gaz'
+
+        ];
+        $fournisseur = [
+            'engie'         => 'Engie',
+            'edf'           => 'EDF',
+            'totalenergie'  => 'TotalEnergies',
+            'mint_energie'  => 'Autre',
+            'ohm_energie'   => 'Autre',
+            'autre'         => 'Autre'
+
+        ];
+        
+        $mensualite = [
+            'MOINS_50'       => 'Moins de 100€',
+            'ENTRE_50_100'   => 'Moins de 100€',
+            'PLUS_100'       => 'Plus de 100€',
+            'je_ne_sais_pas' => 'Je ne sais pas'
+
+        ];
+        try {
+
+            $params = [
+                'returnjson' => 'yes',
+                'campid'     => 'ENERGIE---FR',
+                'sid'        => '79',
+                'email'      => $classics['email'],
+                'firstname'  => $classics['firstname'],
+                'lastname'   => $classics['lastname'],
+                'dob'        => $birthdateFormatted,
+                'street1'    => $classics['address'],
+                'towncity'   => $classics['city'],
+                'postcode'   => $classics['zipcode'],
+                'phone1'     => $classics['phone'],
+                // "chauffage"  => $offre[$specifics['custom_field_1']],
+                "fournisseur"=> $fournisseur[$specifics['custom_field_4']],
+                "quelle_offre" => $offre[$specifics['custom_field_1']],
+                "testmode"   => "yes",
+                "mensualite" => $mensualite[$specifics['custom_fied_5']],
+            ];
+
+            // construit automatiquement :
+            // ?returnjson=yes&campid=...
+            $url = $baseUrl . '?' . http_build_query($params);
+
+            parent::logger('../logs/travaux/eni_FlexyLead_before.json', $url);
+
+            // appel GET
+            $curl_response = CurlProvider::get_requests($url);
+
+            $responses = json_decode($curl_response[0], true);
+
+            parent::logger('../logs/travaux/eni_FlexyLead_after.json', $responses);
+
+            if (isset($responses['code']) && $responses['code'] == 1) {
+
+                return [
+                    "status"       => "success",
+                    "api_response" => $curl_response,
+                    "id_part"      => $responses['leadId'] ?? 0,
+                    "ws_statut"    => "ok",
+                    "description"  => "lead sent successfully to Flexylead",
+                ];
+
+            } else {
+
+                return [
+                    "status"       => "error",
+                    "api_response" => $curl_response,
+                    "id_part"      => "",
+                    "ws_statut"    => $responses['response'] ?? 'Unknown error',
+                    "description"  => "error sending lead to Flexylead",
+                ];
+            }
+
+        } catch (\Exception $e) {
+
+            return parent::common_spreadsheets_responses("FlexyLead", false);
+        }
+    }
+   
 }

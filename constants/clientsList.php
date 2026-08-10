@@ -27,9 +27,10 @@ $clients = [
     "pannsol#19"   => "Leads FR",          // (Leads FR panneau solaire)
     "pannsol#20"   => "viteundevis",
     "pannsol#21"   => "LEAD VALUE",        // (LEAD VALUE panneau solaire)
-    "pannsol#22"   => "PERFUSION DIGITAL", // (PERFUSION DIGITAL panneau solaire)
-    "pannsol#23"   => "CPRY_DIGITAL",      //    "pannsol CPRY_DIGITAL"
-    "pansol#24"    => "prosperaleads",     // (prosperaleads panneau solaire)
+    "pannsol#22"   => "PERFUSION DIGITAL",        // (PERFUSION DIGITAL panneau solaire)
+    "pannsol#23"   => "CPRY_DIGITAL", //    "pannsol CPRY_DIGITAL"
+    "pannsol#24"    => "prosperaleads",     // (prosperaleads panneau solaire)
+    "pannsol#25"   => "devis_plus", //devis plus panneau solaire
     /**
      * defiscalisation/Pinel clients
      */
@@ -45,6 +46,8 @@ $clients = [
      */
     "energy#1"     => "Lead Creative",
     "energy#2"     => "EURO CRM",
+    "energy#3"     => "Flexylead",
+
     /**
      * poele a granules clients
      */
@@ -61,11 +64,11 @@ $clients = [
     "iso#7"        => "Leads FR",          // (Leads FR isolation)
     "iso#8"        => "viteundevis",
     "iso#9"        => "PERFUSION DIGITAL",
-    "iso#10"       => "CONFLUENT DIGITAL", //confluent digital isolation nouveaux
+    "iso#10"       => "CONFLUENT DIGITAL", //confluent digital isolation nouveaux 
     "iso#11"       => "CPRY_DIGITAL",
     "iso#12"       => "Flexylead", //ite flexyleads
     "iso#13"       => "prosperaleads", //prosperaleads isolation
-
+    "iso#14"       => "devis_plus", // devis plus isolation ite
     /**
      * assurance
      */
@@ -94,11 +97,10 @@ $clients = [
     "assurance#23" => "Mediamoov",       //Media Moov assurance emprunteur
     "assurance#24" => "Flexylead",       //Mutuelle senior de Flexylead
     "assurance#25" => "LEAD VALUE",
-    "assurance#26" => "Lead Creative",     //Mutuelle senior de Lead Creative
     "assurance#27" => "CONFLUENT DIGITAL", //Mutuelle senior de "CONFLUENT DIGITAL"
-    "assurance#28" => "DATA OPP",
-    "assurance#29" => "test",
+    "assurance#28" => "DATA OPP",            // Data Opp assurance emprunteur
     "assurance#30" => "CONFLUENT DIGITAL", //animaux de "CONFLUENT DIGITAL"
+    "assurance#31" => "Flexylead", //assurance animaux Fleaxlead
     /**
      * security
      */
@@ -136,12 +138,14 @@ $clients = [
     "pac#18"       => "lovvis-ads",              // (lovvis-ads proxiserve pompe a chaleur)
     "pac#19"       => "Aston Group",             // (Aston Group pompe a chaleur)
     "pac#20"       => "viteundevis",
-    "pac#21"       => "LEAD VALUE",        // (LEAD VALUE pompe a chaleur)
-    "pac#22"       => "CONFLUENT DIGITAL", //(CONFLUENT DIGITAL pompe a chaleur)
+    "pac#21"       => "LEAD VALUE",              // (LEAD VALUE pompe a chaleur)
+    "pac#22"       => "CONFLUENT DIGITAL",     //(CONFLUENT DIGITAL pompe a chaleur)
     "pac#23"       => "PERFUSION DIGITAL",
-    "pac#24"       => "CPRY_DIGITAL", //PAC
+    "pac#24"       => "CPRY_DIGITAL",   //PAC 
     "pac#25"       => "Mediamoov",
     "pac#26"       => "prosperaleads", //prosperaleads pompe a chaleur
+    "pac#27"       => "devis_plus" , //devis plus pompe a chaleur
+
     /**
      * rachat de credits
      */
@@ -153,6 +157,8 @@ $clients = [
     "douche#2"     => "Goracash",      // (Goracash Douche senior data)
     "douche#3"     => "viteundevis",
     "douche#4"     => "CONFLUENT DIGITAL",
+    "douche#5"     => "devis_plus",
+
     /**
      * Fenêtre
      */
@@ -160,5 +166,6 @@ $clients = [
     "fenetre#2"    => "Goracash",    // (Goracash fenêtre)
     "fenetre#3"    => "viteundevis",
 
-    "clim#1"       => "CONFLUENT DIGITAL",
+    "clim#1"        => "CONFLUENT DIGITAL",
+
 ];

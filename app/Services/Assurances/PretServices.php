@@ -981,7 +981,7 @@ class PretServices extends \App\Services\ApiService
         $specifics = $assuranceModel->getSpecifics();
 
         // $url = "https://service.comparerchanger.com/__ws/send_lead.php"
-        
+
         $url     = "https://service.comparer-changer.com/__ws/send_lead_test.php";
         $logfile = "confluent_digital_animaux";
 
@@ -1028,11 +1028,11 @@ class PretServices extends \App\Services\ApiService
                 'pet_name'         => $specifics['custom_field_7'] ?? '',
                 'pet_birthday'     => $petBirthdateFormatted,
                 'pet_chip'         => $petChipMap[$specifics['custom_field_4']] ?? 'no',
-                'pet_gender'       => $specifics['custom_field_8'] ?? '',     
+                'pet_gender'       => $specifics['custom_field_8'] ?? '',
                 'optin_cgu'        => $classics['optin_cgu'] ?? 1,
                 'optin_partners'   => $classics['optin_partners'] ?? 1,
 
-               'get_params'       => json_encode([
+                'get_params'       => json_encode([
                     'vaccins_a_jour' => $specifics['custom_field_3'] ?? '',
                     'deja_assure'    => $specifics['custom_field_6'] ?? '',
                 ]),
@@ -1067,6 +1067,90 @@ class PretServices extends \App\Services\ApiService
             }
         } catch (\Exception $e) {
             return parent::common_internal_server_error();
+        }
+    }
+
+    public static function flexlead_animaux($assuranceModel)
+    {
+        $classics  = $assuranceModel->getClassics();
+        $specifics = $assuranceModel->getSpecifics();
+
+        $url     = "https://flexlead.leadbyte.co.uk/api/submit.php";
+        $logfile = "flexlead_animaux";
+
+        $campId  = "FR- Assurance Animaux";
+        $sid     = 79;
+        $testMode = false; // passer à true tant que tu es en phase de test
+
+        // FlexLead n'accepte que "dog" ou "cat" pour ce champ
+        $petTypeMap = [
+            'chien' => 'dog',
+            'chat'  => 'cat',
+            'dog'   => 'dog',
+            'cat'   => 'cat'
+        ];
+
+        // dob doit être au format dd/mm/yyyy pour cette API
+        $dobFormatted = self::formatBirthdateDMY($classics['birthdate'] ?? null);
+
+        try {
+            $data = [
+                'campid'     => $campId,
+                'sid'        => $sid,
+                'returnjson' => 'yes',
+                'email'      => $classics['email'] ?? '',
+                'firstname'  => $classics['firstname'] ?? '',
+                'lastname'   => $classics['lastname'] ?? '',
+                'dob'        => $dobFormatted,
+                'street1'    => $classics['address'] ?? '',
+                'towncity'   => $classics['city'] ?? '',
+                'type'       => $petTypeMap[$specifics['custom_field_1']] ?? '',
+                'postcode'   => $classics['zipcode'] ?? '',
+            ];
+
+            if ($testMode) {
+                $data['testmode'] = 'yes';
+            }
+
+            parent::logger('../logs/assurance/' . $logfile . '_before.json', $data);
+
+            $curl_response = CurlProvider::post_requests($url, [], $data);
+            $responses     = json_decode($curl_response[0], true);
+
+            parent::logger('../logs/assurance/' . $logfile . '_after.json', $responses);
+
+            if (($responses['code'] ?? null) == 1) {
+                return [
+                    "status"       => "success",
+                    "api_response" => $curl_response,
+                    "id_part"      => $responses['leadId'] ?? '',
+                    "ws_statut"    => "ok",
+                    "description"  => "lead has been sent successfully to FLEXLEAD ANIMAUX",
+                ];
+            } else {
+                return [
+                    "status"       => "error",
+                    "api_response" => $curl_response,
+                    "id_part"      => "",
+                    "ws_statut"    => "error",
+                    "description"  => $responses['response'] ?? "error sending lead to FLEXLEAD ANIMAUX",
+                ];
+            }
+        } catch (\Exception $e) {
+            return parent::common_internal_server_error();
+        }
+    }
+    protected static function formatBirthdateDMY($rawDate)
+    {
+        if (empty($rawDate)) {
+            return '';
+        }
+
+        try {
+            $date = new \DateTime($rawDate);
+            return $date->format('d/m/Y');
+        } catch (\Exception $e) {
+            return '';
         }
     }
 }

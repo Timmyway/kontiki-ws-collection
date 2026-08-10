@@ -453,21 +453,18 @@ class EuroCrmServices
             throw new \Exception("Numéro de téléphone invalide: {$phone}");
         }
 
-        // ✅ CONSTRUCTION DES DONNÉES SELON LA DOCUMENTATION 1SA
         $data = [
-                                                         // === CHAMPS OBLIGATOIRES ===
-            "MARQUE_COLLECTE"          => "Budgetdevis", // À adapter selon votre marque
+            "MARQUE_COLLECTE"          => "Budgetdevis",
             "MARQUE_DESTINATAIRE"      => "PLUSIEURS_MARQUES_DESTINATAIRES",
             "AFFICHAGE_MARQUE_CLIENTE" => "MARQUE_CLIENTE_AFFICHEE",
-            "NIVEAU_QUALITE_LEAD"      => "MEDIUM",   // HIGH, MEDIUM ou LOW
-            "CATEGORIE_LEAD"           => "emaling",  // B2 = Formulaire court
-            "CANAL_COLLECTE_1"         => "emailing", // À adapter selon votre source
+            "NIVEAU_QUALITE_LEAD"      => "MEDIUM",
+            "CATEGORIE_LEAD"           => "emaling",
+            "CANAL_COLLECTE_1"         => "emailing",
             "LEVIER_COLLECTE_1"        => "emailing",
             "URL_COLLECTE"             => $classics['referer'],
 
-                                                                        // === OPT-INS (OBLIGATOIRE pour OPT_IN_CDF_TEL) ===
-            "OPT_IN_CDF_TEL"           => $specifics["custom_field_3"], // Horodatage de l'opt-in
-                                                                        // === DONNÉES PROSPECT (OBLIGATOIRES) ===
+            "OPT_IN_CDF_TEL"           => $specifics["custom_field_3"], 
+
             "CIVILITE"                 => $gender_category,
             "NOM"                      => $classics['lastname'],
             "PRENOM"                   => $classics['firstname'],
@@ -475,7 +472,6 @@ class EuroCrmServices
             "CODE_POSTAL"              => $classics['zipcode'],
             "VILLE"                    => $classics['city'],
 
-            // === BESOIN ÉNERGIE (OBLIGATOIRE) ===
             "MES_OU_CDF"               => self::mapMesOuCdf($specifics),
             "BESOINS"                  => self::mapBesoins($specifics),
             "ID_SOUS_CAMPAGNE"         => $classics["affiliateID"],
