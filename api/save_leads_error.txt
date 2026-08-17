@@ -1,0 +1,5 @@
+mysqli_sql_exception: Column count doesn't match value count at row 1 in D:\laragon\www\kontiki-ws-collection\app\Controllers\LeadsController.php:321
+Stack trace:
+#0 D:\laragon\www\kontiki-ws-collection\app\Controllers\LeadsController.php(321): mysqli->query('insert into lea...')
+#1 D:\laragon\www\kontiki-ws-collection\api\insert.php(169): App\Controllers\LeadsController::save_leads(Array, Array, Object(mysqli), '2026-08-14 16:2...')
+#2 {main}

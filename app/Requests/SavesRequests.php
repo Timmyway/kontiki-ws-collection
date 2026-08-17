@@ -31,6 +31,8 @@ class SavesRequests
                 \'' . $lead['userAgent'] . '\',
                 \'' . $lead['referer'] . '\',
                 \'NOT CALLED\',
+                ' . intval($lead['accept_cgu']) . ',
+                ' . intval($lead['accept_cgu_partner']) . ',
                 (select id from fournisseurs where login=\'' . $login_data['partname'] . '\') ,
                 (select tags_id from fournisseurs where login=\'' . $login_data['partname'] . '\')
             )';

@@ -1,5 +1,5 @@
-mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 22 in C:\Users\test-2\Desktop\deplacer\ws-colections-22-08-2025 (2)\ws-colections-22-08-2025\app\Controllers\TravauxController.php:61
+mysqli_sql_exception: Incorrect integer value: '' for column 'leads_id' at row 1 in D:\laragon\www\kontiki-ws-collection\app\Controllers\TravauxController.php:61
 Stack trace:
-#0 C:\Users\test-2\Desktop\deplacer\ws-colections-22-08-2025 (2)\ws-colections-22-08-2025\app\Controllers\TravauxController.php(61): mysqli->query('insert into tra...')
-#1 C:\Users\test-2\Desktop\deplacer\ws-colections-22-08-2025 (2)\ws-colections-22-08-2025\api\insert.php(149): App\Controllers\TravauxController::save_travaux(Object(mysqli), Array, Array, Array, NULL)
+#0 D:\laragon\www\kontiki-ws-collection\app\Controllers\TravauxController.php(61): mysqli->query('insert into tra...')
+#1 D:\laragon\www\kontiki-ws-collection\api\insert.php(186): App\Controllers\TravauxController::save_travaux(Object(mysqli), Array, Array, Array, '19')
 #2 {main}

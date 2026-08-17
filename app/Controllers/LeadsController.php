@@ -101,6 +101,8 @@ class LeadsController
             "user_sender"      => $input_data['user_sender'] ?? null, // the user that treated the lead
             "user_action"      => $input_data['user_action'] ?? "commenting", // (depends on the user api call action : discarding | commenting | sending)
             "receive_date"     => $input_data['receive_date'] ?? null,
+            "accept_cgu"         => !empty($input_data['acceptCGU']) ? 1 : 0, // consentement contact tel/RGPD
+            "accept_cgu_partner" => !empty($input_data['acceptCGUPartner']) ? 1 : 0,
         );
 
         return $lead;
