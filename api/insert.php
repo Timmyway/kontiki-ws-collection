@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     /**
      * provide IP ADDRESS and USER_AGENT
      */
-    $ip = $_SERVER['REMOTE_ADDR'];
+    $ip = isset($input_data["ip"]) && $input_data["ip"] != "" ? $input_data["ip"] : $_SERVER['REMOTE_ADDR'];
     $userAgent = $_SERVER['HTTP_USER_AGENT'];
     $referer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : "Aucun referer";
 
