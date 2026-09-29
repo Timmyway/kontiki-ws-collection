@@ -1,0 +1,42 @@
+[
+    {
+        "campagne": "ITE",
+        "codeMetier": "I04",
+        "email": "testmoreau@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 13:35:59"
+    },
+    {
+        "campagne": "ITE",
+        "codeMetier": "I04",
+        "email": "testmoreau@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:11:48"
+    },
+    {
+        "campagne": "ITE",
+        "codeMetier": "I04",
+        "email": "Testite@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:17:12"
+    },
+    {
+        "campagne": "ITE",
+        "codeMetier": "I04",
+        "email": "test@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-08-28 16:18:11"
+    },
+    {
+        "campagne": "ITE",
+        "codeMetier": "I04",
+        "email": "testoptin@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-08-31 08:37:10"
+    }
+]

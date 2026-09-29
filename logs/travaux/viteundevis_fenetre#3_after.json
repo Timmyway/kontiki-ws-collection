@@ -1,0 +1,63 @@
+[
+    {
+        "campagne": "fenetre#3",
+        "category_id": 72,
+        "email": "test.2508@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": "999999999993973",
+                "devis_reversement": 0,
+                "devis_montant_attention": "Montant de reversement a 0 car test=1"
+            }
+        },
+        "http_code": 200,
+        "date": "2025-11-12 14:46:14"
+    },
+    {
+        "campagne": "fenetre#3",
+        "category_id": 72,
+        "email": "testfenetre@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": "999999999997236",
+                "devis_reversement": 0,
+                "devis_montant_attention": "Montant de reversement a 0 car test=1"
+            }
+        },
+        "http_code": 200,
+        "date": "2025-11-12 14:53:52"
+    },
+    {
+        "campagne": "fenetre#3",
+        "category_id": 72,
+        "email": "abli0600@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3333608,
+                "devis_hash": "9e9ddbdbaa9add1573f32644983cbe39",
+                "devis_reversement": "20",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2025-12-10 13:58:41"
+    }
+]

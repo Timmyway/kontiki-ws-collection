@@ -1,0 +1,1 @@
+[{"http_code":200,"output":"{}"},{"http_code":200,"output":"{}"},{"http_code":200,"output":"{}"},{"http_code":200,"output":"{}"},{"http_code":400,"output":"{\"message\":\"No campaign found for this collect, please check your configuration\"}"},{"http_code":200,"output":"{}"}]

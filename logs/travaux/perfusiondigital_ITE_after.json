@@ -1,0 +1,2202 @@
+[
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1075,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-12 13:13:29"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1077,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-12 13:45:00"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1079,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2025-12-12 16:04:07"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1080,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-12 16:04:55"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1093,
+            "status": "ERROR",
+            "message": "Invalid data argument (s) : \"zipcode\""
+        },
+        "http_code": 200,
+        "date": "2025-12-15 14:20:10"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1094,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 14:22:34"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1097,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 17:30:51"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1099,
+            "status": "ERROR",
+            "message": "Invalid data argument (s) : \"zipcode\""
+        },
+        "http_code": 200,
+        "date": "2025-12-16 09:16:17"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1100,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 09:17:18"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1102,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 09:46:04"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1105,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 11:41:54"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1106,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 11:58:41"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1107,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 13:54:53"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1109,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:24:19"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1111,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:33:38"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1117,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 15:26:10"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1118,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 16:11:55"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1122,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 16:37:39"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1125,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:22:10"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1126,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:26:18"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1130,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:40:26"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1133,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:56:24"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1144,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-07 16:30:01"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1145,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-07 17:00:11"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1146,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 11:57:53"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1148,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 13:30:23"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1149,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 13:44:54"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1150,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 13:52:32"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1151,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 14:19:21"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1152,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 15:07:45"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1153,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 16:41:53"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1154,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-08 17:36:48"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1156,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 09:33:07"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1157,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 09:49:48"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1158,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 10:09:24"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1159,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 10:21:38"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1163,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 11:34:32"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1165,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 13:13:52"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1166,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 13:15:33"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1168,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 13:50:47"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1171,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 14:41:25"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1172,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 14:49:46"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1174,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 15:31:30"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1175,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 16:21:31"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1177,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 16:44:39"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1178,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 16:45:30"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1179,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 16:46:40"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1180,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 16:51:47"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1182,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 17:43:56"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1183,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 17:49:59"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1184,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 17:53:08"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1185,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-09 17:53:45"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1187,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 09:20:37"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1188,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 09:23:51"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1197,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 12:02:23"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1198,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 12:04:50"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1199,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 13:04:49"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1207,
+            "status": "ERROR",
+            "message": "Erreur interne du système"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 13:23:34"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1208,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 13:39:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1209,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-13 13:39:46"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1215,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 09:23:03"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1217,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 09:44:42"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1220,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 11:16:41"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1225,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:23:38"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1228,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:32:27"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1232,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:41:22"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1235,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:53:18"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1238,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 14:05:27"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1239,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 14:18:30"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1243,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 14:47:01"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1246,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 14:59:21"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1248,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:08:32"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1249,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:12:27"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1250,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:14:01"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1251,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:17:32"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1252,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:19:08"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1253,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:21:20"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1254,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:25:22"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1255,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:28:27"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1256,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 15:33:16"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1257,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:15:59"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1258,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:19:53"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1259,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:22:09"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1260,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:31:16"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1261,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:41:10"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1262,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:43:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1263,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:51:31"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1264,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 16:54:15"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1265,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:05:38"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1266,
+            "status": "ERROR",
+            "message": "Invalid data argument (s) : \"zipcode\""
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:09:57"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1267,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:13:24"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1268,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:29:03"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1269,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:39:26"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1270,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:42:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1271,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:44:01"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1272,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:44:43"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1273,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:47:09"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1274,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:50:09"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1275,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 17:53:08"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1277,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:20:37"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1278,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:21:23"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1281,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:32:20"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1286,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:51:55"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1287,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:03:34"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1290,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:11:03"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1293,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:21:04"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1296,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:31:43"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1297,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:32:44"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1300,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:09:37"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1303,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:22:44"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1306,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:28:15"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1309,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:34:59"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1313,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 12:37:38"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1317,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 13:08:12"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1319,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 13:15:54"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1321,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 13:28:16"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1322,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 13:32:33"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1323,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 16:02:43"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1325,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 16:39:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1326,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 16:50:40"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1327,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 17:19:18"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1329,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 14:35:59"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1332,
+            "status": "ERROR",
+            "message": "Invalid data argument (s) : \"zipcode\""
+        },
+        "http_code": 200,
+        "date": "2026-01-16 14:55:22"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1333,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 14:56:03"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1337,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 15:14:55"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1339,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 15:17:40"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1342,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 15:22:07"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1344,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 15:28:31"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1349,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 16:24:52"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1351,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 16:33:40"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1354,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 16:52:27"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1355,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 16:58:09"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1358,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:22:09"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1360,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:24:30"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1362,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:30:19"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1364,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:34:24"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1367,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:38:46"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1368,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:49:01"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1372,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 17:58:41"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1374,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 18:02:20"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1378,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 09:41:36"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1381,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 10:30:15"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1383,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 10:43:48"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1385,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 11:12:05"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1387,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 11:15:14"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1390,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 11:40:26"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1392,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 11:48:38"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1395,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 13:16:39"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1397,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 13:26:04"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1400,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 13:44:39"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1401,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-19 13:55:50"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1403,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 09:37:19"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1405,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 09:48:43"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1407,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 10:04:44"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1409,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 10:22:12"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1412,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 11:13:01"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1415,
+            "status": "ERROR",
+            "message": "Erreur interne du système"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 13:23:20"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1416,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 13:30:13"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1417,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 13:35:17"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1419,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 13:47:52"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1421,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 13:52:10"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1423,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 14:01:51"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1425,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 14:06:47"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1429,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 14:11:57"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1432,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 14:42:59"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1436,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-20 16:22:14"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1438,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 09:13:14"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1440,
+            "status": "REFUSED",
+            "message": "This can't be sold"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 09:30:05"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1442,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 09:57:55"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1443,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 10:03:00"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1445,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 10:26:41"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1447,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 11:04:43"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1449,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 11:33:35"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1451,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 11:46:23"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1453,
+            "status": "REFUSED",
+            "message": "This can't be sold"
+        },
+        "http_code": 200,
+        "date": "2026-01-21 15:38:08"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1455,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 09:16:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1456,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 09:25:25"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1458,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 09:42:56"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1462,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 11:23:53"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1465,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 13:22:30"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1468,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 13:56:39"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1469,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 15:22:22"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1470,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-22 15:25:10"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1475,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 10:39:39"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1476,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 11:17:46"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1477,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 11:40:03"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1478,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 11:53:05"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1479,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 11:58:29"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1480,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 11:59:52"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1482,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 12:27:03"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1483,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 13:08:54"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1484,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 13:16:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1490,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 14:38:34"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1491,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 14:43:30"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": false,
+            "submission_id": 1495,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 15:06:15"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1496,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-23 15:08:06"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1502,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-26 11:20:13"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1503,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-26 11:25:45"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1505,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-26 11:33:31"
+    },
+    {
+        "campagne": "ITE",
+        "api_response": {
+            "success": true,
+            "submission_id": 1508,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-26 14:29:00"
+    }
+]

@@ -1,0 +1,717 @@
+[
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1063,
+            "status": "REFUSED",
+            "message": "This can't be sold"
+        },
+        "http_code": 200,
+        "date": "2025-12-11 13:46:42"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1081,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-12 16:07:22"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1085,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 13:01:16"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1089,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 13:43:30"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1090,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 13:47:10"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1092,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 14:15:52"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1095,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 16:34:02"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1096,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-15 16:40:05"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1098,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 09:15:17"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1101,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 09:41:12"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1103,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 09:58:32"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1104,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 11:39:35"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1108,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:23:05"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1110,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:32:47"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1112,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:35:01"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1113,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:38:32"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1114,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 14:39:01"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1115,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 15:04:18"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1116,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 15:25:07"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1119,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 16:18:12"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1120,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 16:24:00"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1121,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 16:35:58"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1123,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:18:29"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1124,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:20:54"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1127,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:26:44"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1128,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:37:27"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1129,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:39:27"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1131,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:52:41"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1132,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-16 17:54:29"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1134,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 11:28:04"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1136,
+            "status": "ERROR",
+            "message": "Invalid data argument (s) : \"zipcode\""
+        },
+        "http_code": 200,
+        "date": "2025-12-19 11:41:02"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1137,
+            "status": "REFUSED",
+            "message": "This can't be sold"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 11:44:54"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1138,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 13:42:03"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1139,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 15:24:22"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1140,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 16:00:40"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1141,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 16:14:02"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1142,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2025-12-19 16:31:59"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1221,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:12:29"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1222,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:14:55"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1223,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:17:11"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1226,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:26:45"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1229,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:34:26"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1230,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:35:37"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1233,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:43:19"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": false,
+            "submission_id": 1236,
+            "status": "REFUSED",
+            "message": "Lead en doublon"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 13:55:55"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1241,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 14:35:04"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1244,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-14 14:49:31"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1279,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:26:48"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1282,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:35:23"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1283,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:37:43"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1284,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 09:42:43"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1288,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:07:02"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1291,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:12:38"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1294,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:24:14"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1298,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 10:34:32"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1301,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:13:22"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1304,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:23:56"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1307,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:29:25"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1310,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 11:37:20"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1314,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 12:39:15"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1320,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 13:17:27"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1324,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-15 16:04:36"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1330,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 14:49:41"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1334,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 14:59:23"
+    },
+    {
+        "campagne": "PAC",
+        "api_response": {
+            "success": true,
+            "submission_id": 1335,
+            "status": "ACCEPTED",
+            "message": "Lead accepté avec succès"
+        },
+        "http_code": 200,
+        "date": "2026-01-16 15:01:00"
+    }
+]

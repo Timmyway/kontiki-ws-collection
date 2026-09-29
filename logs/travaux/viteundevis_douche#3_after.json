@@ -1,0 +1,3701 @@
+[
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "p.deschar@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445655,
+                "devis_hash": "eed33ac8c3171bc074702947e7bf5bd6",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 10:22:50"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "corvray@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445670,
+                "devis_hash": "7eb1711c20c01f2aeb41d1e93868053a",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 10:31:26"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "pbellavoine@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445734,
+                "devis_hash": "17d1b91cc49ffbacbd904f1af80af016",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 11:21:40"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "achouri.lahouari@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445735,
+                "devis_hash": "c278555fcedd3d8577042657c0682699",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 11:22:04"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "maligoce@icloud.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445816,
+                "devis_hash": "1c9118de60200f01c0f5ca9559515cbb",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 12:44:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "vanibel97.1@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445819,
+                "devis_hash": "415767ac18c5f34444ddf7d6d8f3790c",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 12:46:35"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "daoudilarbi64@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445880,
+                "devis_hash": "7ef76b9cef4815c5723bfdab4669c16e",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 14:10:02"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "thierry6313@yaoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445881,
+                "devis_hash": "70e07e17a06d85ffc5c10b45cb685919",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 14:10:29"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "arcangeli_a2@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445891,
+                "devis_hash": "aae7b08880ac4b6b57bda57c6616ffce",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 14:29:49"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "janineoulmi@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3445898,
+                "devis_hash": "e6108c9a146211b9360338471e37bd8f",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 14:44:45"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "cmarjoux@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446099,
+                "devis_hash": "a6720864b551b87a15d44694b8792995",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 17:32:10"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "karimaghomras@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446100,
+                "devis_hash": "f97d8cccd4258293fef289866219324f",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 17:32:26"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "p.kelner@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446102,
+                "devis_hash": "f0108de0c2c8ab3f42fb6100639d7dc6",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 17:34:40"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dominiquehe@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446103,
+                "devis_hash": "f170614a9981f9186c8f0d2cb9648f0d",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 17:39:21"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "gerardbosc@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446105,
+                "devis_hash": "c3199c205a1f1d235907780a324d2a16",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-08 17:40:11"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "essaidi59@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446538,
+                "devis_hash": "5a0803282985e4cfcefc15edac59cee2",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-09 09:21:02"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "moniaklai1974@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446632,
+                "devis_hash": "dc7396db84f4d3bbe99224313ecd2c53",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-09 10:38:07"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "bakero@live.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446677,
+                "devis_hash": "aaab49c6f93311240b22c1faf3b35ca6",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-09 11:23:55"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "danetnad7@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446857,
+                "devis_hash": "b3865e9f3e44627bbab662b6afbe78b3",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-09 14:51:25"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "gondarddominique@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446861,
+                "devis_hash": "56be1556949f20bad0f290e8dca4a14c",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-09 14:57:56"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "anthony.lefebvre72@orange.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3446934,
+                "devis_hash": "73662c53a4abd81053b3d6b03ef1032d",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-09 16:26:16"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "christine.deisting@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3447495,
+                "devis_hash": "11d99a4bcaa25d66b245c183e4184dca",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-10 12:24:16"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "fleukeu@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3447500,
+                "devis_hash": "70bde1738c8fbcce5c19d7e45d578104",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-10 12:30:14"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "albert-s54@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3448888,
+                "devis_hash": "f153b0af40135c00875588f9f9cde1e0",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-12 11:11:38"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Lydie.maryline@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3448889,
+                "devis_hash": "cd1508ed48787a7ba470456bb53a2797",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-12 11:11:51"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "e.ramon@laposte.net",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3449019,
+                "devis_hash": "5d4ed66825c35f3bc1bb8c6a1dac4ec5",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-12 14:01:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "clarissefoyet@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3449020,
+                "devis_hash": "aadefa16d40329cf360eb41c116d0302",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-12 14:04:30"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "lucien.frederique@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451094,
+                "devis_hash": "232e8e03255f6a0ee8c80dd28413fae0",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-15 14:39:45"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "erouet.contact@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451097,
+                "devis_hash": "432409c87e0986e85eb3be9ce20808a1",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-15 14:41:57"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "mariela_jj@hotmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451218,
+                "devis_hash": "1fc6a86c78540b5c0a1217e3a83d94f7",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-15 16:05:34"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "saliha17@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451226,
+                "devis_hash": "76db67453be8175b4e8cdb534efe11b1",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-15 16:11:04"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "denis.hubert@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451230,
+                "devis_hash": "3b0e5988150d0dd07b7ab99dee5a81ea",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-15 16:19:54"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "malikamanon@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451273,
+                "devis_hash": "2202c46108fa693a83719e2d7d014b86",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-15 16:52:09"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "maamarnour@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451802,
+                "devis_hash": "d84a4efcdb0a8235cba1c9cd9672d687",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-16 10:21:12"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "syloufabre@live.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3451803,
+                "devis_hash": "dc7a89122ce19a82b1993a55a47344cb",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-16 10:22:16"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "francoise.landroit@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3452092,
+                "devis_hash": "13cceea316152c0246e0ba96c47d2f76",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-16 16:12:15"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "beatricesuric@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3454300,
+                "devis_hash": "3845b8ba96017a0deed6e19316bca7be",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-19 11:11:38"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "geraudjp@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3454302,
+                "devis_hash": "2c25fc80b285a5ecc75c15d74873e09d",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-19 11:11:57"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "fmanigold@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3454481,
+                "devis_hash": "43cdc6e1f825d77822918c9d6c0bf2d8",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-19 15:31:09"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "daniel.seube@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3454482,
+                "devis_hash": "3f76b4d87712a89f939889ce9f6f38a9",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-19 15:31:40"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "melvina062875@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3454527,
+                "devis_hash": "79900140ea9e4b5e377e89a8f6fb4305",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-19 16:24:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "elfriede.mittelmaier@sfr.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3454529,
+                "devis_hash": "ee9a7cf8f1d199bef784e91b9454f3f0",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-19 16:26:34"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "mennella.p@live.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3457287,
+                "devis_hash": "76356c93359224e6ad6a8197a4000e9c",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 09:17:20"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "malou13780@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3457333,
+                "devis_hash": "887022b5b98eca1be0d8b26645ada759",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 09:37:44"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "nafiyssat@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3457521,
+                "devis_hash": "21879ac5eefdb7f97ee1162d9a9b55ab",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 11:21:14"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "johnny.pongerard@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3457838,
+                "devis_hash": "eefa78616b57ea7bfc773fb62185185e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 14:39:28"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dominique.gerard@rocketmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3457860,
+                "devis_hash": "0c0a64aae4e63d4d9bf8431497e84e4b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 14:51:20"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "delh.michel@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3457905,
+                "devis_hash": "e99f00aaef5e718997bbbc085feab61c",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 15:20:42"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rachelafriat@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3458122,
+                "devis_hash": "1ba00f90d419b9e8f24eb87971751525",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-22 17:41:38"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "hajamor.youssef@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3458761,
+                "devis_hash": "f5cd1eee5f14e4f3667a0ac0bd9a86be",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 10:11:46"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "sumbu.antonio@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3458779,
+                "devis_hash": "a22d8d7d41ab7814c28bbe7d47f62097",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 10:30:41"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "thumarin.bruno@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3459065,
+                "devis_hash": "536fb836ad2a00dedf1a222b699a5cf1",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 14:48:15"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "chouperie@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3459067,
+                "devis_hash": "d91babed7d2e754bd66cc93639682d81",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 14:49:04"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "micheledenat@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3459100,
+                "devis_hash": "b008b41d7dda1f44ca42347f91323f92",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 15:09:27"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "kgohill@wanadoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3459102,
+                "devis_hash": "17e441557084595955ad645389531880",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 15:10:27"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "ouanessylvie2000@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3459217,
+                "devis_hash": "006049e3b6bfb9c6d2dd18254859bff6",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-23 16:29:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dufourdoreste@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3459858,
+                "devis_hash": "ef049ea6db5c437a50d687cbb4bfdefd",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-24 09:30:28"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "achouri.lahouari@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3460107,
+                "devis_hash": "c278555fcedd3d8577042657c0682699",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-24 12:52:48"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Merschardtc@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3460475,
+                "devis_hash": "194ee3fb8bd146f00cd870f504db1760",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-24 17:43:32"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "maevah1003@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461003,
+                "devis_hash": "7d377860622eccfd2f725f34941254e6",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 10:35:00"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "annie.gevrekyan@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461028,
+                "devis_hash": "45318f3898cff1516fdf181e7e864012",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 10:45:35"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "annie.gevrekyan@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "109",
+                    "code_texte": "doublon"
+                }
+            ]
+        },
+        "http_code": 200,
+        "date": "2026-06-25 10:46:20"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "ericbds13@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461035,
+                "devis_hash": "837101ac9d264a4cf150625d13a2b3c6",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 10:46:32"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dufourdoreste@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "109",
+                    "code_texte": "doublon"
+                }
+            ]
+        },
+        "http_code": 200,
+        "date": "2026-06-25 10:49:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "annie.leport@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461041,
+                "devis_hash": "f66bb5c02a13093073cc16c92db412b9",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 10:49:35"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "debuedavid@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461084,
+                "devis_hash": "a82539dae9ffbb9bdb8c631de43aa458",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:14:38"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "alain.jumeau@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461087,
+                "devis_hash": "b4f1ce860e7afeaf110d987711bf3012",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:15:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "sosoyaya63@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461105,
+                "devis_hash": "6714238c8285576a72c65e22b84f75c2",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:21:57"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "marie.mislin@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461107,
+                "devis_hash": "9b2a79ec2053077b429ccb383702bd45",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:22:14"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "michecollignon@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461111,
+                "devis_hash": "a87af9bcfbb93d3ca09b18431b483400",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:26:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "serge205@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461114,
+                "devis_hash": "d8e3308e994ac47678477cbcb84fbcff",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:29:07"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "martine.aycaguer@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461117,
+                "devis_hash": "08e7da6e7fa7b52a4072e01e35438951",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 11:30:39"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rubyka_r@yahoo.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3461425,
+                "devis_hash": "4992458b028675bac5aadcb77a47d888",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-25 15:58:45"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "michelloeile@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465009,
+                "devis_hash": "6cda66c8a17b79d3f8b9a78ed623a15c",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-29 18:35:51"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "myriam.demoustier@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465410,
+                "devis_hash": "eeed67742bccd2320538ed6e43c11db2",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 09:19:47"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "haoudjit@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465412,
+                "devis_hash": "3045bd28a87d4c897caf2189b258af20",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 09:20:37"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "corbeaudesmers@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465531,
+                "devis_hash": "450715bc9699bbb58e49ff6a99296971",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 10:56:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "ajduclos@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465543,
+                "devis_hash": "7894807c37b56633dec9b7a6d2a4a51a",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 11:09:06"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "jms01@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465812,
+                "devis_hash": "1e966462c89beff85151439d82de36fe",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 14:44:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "les3g2lumiere@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465820,
+                "devis_hash": "3aecb67ef6cfb2d2be82d310360ad68b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 14:45:21"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "agou.bela76@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465838,
+                "devis_hash": "0832a5f599058ea03f84066b3014b4ad",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 15:03:48"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "titiagass2@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465968,
+                "devis_hash": "43abd12484b61e957a6b7caac768ae6e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 16:28:35"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "ranymorlet@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465969,
+                "devis_hash": "186a4c58b74ca30033066fd6f7cf6817",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 16:28:47"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "pinnamonique@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465970,
+                "devis_hash": "3153c33191e1f1ff048df72a96d5a440",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 16:28:57"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rlamrani2@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3465971,
+                "devis_hash": "eedb4ca360bcea3d8f3f16266f1d7886",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-06-30 16:29:08"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "nivet.corinne@bbox.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470469,
+                "devis_hash": "3925196a75e835c26e1e5104441b63cd",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 09:37:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "bzeghouda1@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470671,
+                "devis_hash": "5b978ae2f8cf96f2aed5f2ee3f92f74d",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 12:14:56"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "matineb@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470673,
+                "devis_hash": "0edc7b74974df26424f29fb7c09827fe",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 12:15:15"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "sypuce28@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470674,
+                "devis_hash": "613bfd42bcab2d282781d07b2d69b440",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 12:15:39"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "haouaba34@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470675,
+                "devis_hash": "7b48fbf26bf329f5cce9d53e92da3f28",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 12:16:05"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "saidyahyaoui@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470676,
+                "devis_hash": "2e78fa64a76abf259b88046b50798c83",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 12:16:21"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Abdoulrassoul2@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470679,
+                "devis_hash": "820da612c71cbbd5b5551d7155f8b400",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 12:20:00"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "martine.lasne@laposte.net",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470800,
+                "devis_hash": "b1f4d98a19041c1445594b090e60be5b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 14:29:28"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "mcdaville@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470881,
+                "devis_hash": "75957a39e76c9850178b49ff81c9cc62",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 15:51:09"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Claude.Lebrun8@orange.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470882,
+                "devis_hash": "138ee2876d45755cda06d3ad1cd1027e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 15:51:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "ROGER.RICHART@ORANGE.FR",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470883,
+                "devis_hash": "c94e1ec81fcda6f6e30709e69bc83e8f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 15:51:51"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "u3925927776@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470884,
+                "devis_hash": "aef94e51c10e19b538b8fa37a899f8cc",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 15:52:18"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "thierry_buhagiar@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470985,
+                "devis_hash": "871a6b655afea27f48cda1857ecd5673",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 17:53:23"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "benoitbourcier@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3470986,
+                "devis_hash": "00119f9176d0c79a7c5f2d40031ee575",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-03 17:54:48"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "mmh.57@neuf.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472626,
+                "devis_hash": "3d5fd0c43fe3b216eaf8f201a61c2ab4",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:41:43"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "ahurier@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472627,
+                "devis_hash": "e4640dbc413b48ade5df86f7a732439a",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:41:53"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "marie.christine.coigne@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472628,
+                "devis_hash": "5165379a13f1cf6a4172d06d9eba32d1",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:42:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "odabadie@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472630,
+                "devis_hash": "44f618407b7387e9a37acc0b3b469a49",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:42:14"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "azerpol@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472631,
+                "devis_hash": "6fca1a32be0e547ac5e5e5af60bac5de",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:42:25"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Ludivine.caffray62@laposte.net",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472632,
+                "devis_hash": "f2944f43a141149d06da02a3ad6f9265",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:42:51"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "higelstein@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472634,
+                "devis_hash": "7a35ce9d4a2ac48ced1a6d41e2c12382",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:43:04"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "grosset-michel@orange.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472635,
+                "devis_hash": "993e58f0fac279574c47b5b4507d58ec",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:43:37"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "hmaguilar@orange.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472636,
+                "devis_hash": "cef417e216eeb059f8071c23ab7cd1ac",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:43:49"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "smahassani@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472640,
+                "devis_hash": "896e969df2aea54030de4a41f6e4b57f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:44:11"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "gaby.bruche@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472645,
+                "devis_hash": "559ce73e9c9a7bdec96cab063c70457b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:45:05"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Daniel_colloni@orange.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472646,
+                "devis_hash": "5eb8ba0ab4ebbfd631e2f6222823e69b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:45:19"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "marieclairebonnet12@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472648,
+                "devis_hash": "7058b2ff18c6d8ef1f44f1d0db376fee",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:46:01"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "peter48@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472668,
+                "devis_hash": "737955bae0917e65adb99f3a4f0b448e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 11:54:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "nathalie.sarcelet@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472688,
+                "devis_hash": "b6c9a17a785d838a9640bf3fb20eba28",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 12:05:25"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "verojankowski@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472800,
+                "devis_hash": "6180e406658947a663b5cf04810435d0",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:54:31"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "jamomavi@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472801,
+                "devis_hash": "778fc4d98a3e3e3201773242a84bb338",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:54:49"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "LESZANDECK@HOTMAIL.FR",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472802,
+                "devis_hash": "3a438a8eb1df79ad11e74d5a2711021f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:55:03"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "christian.valentin10@sfr.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472804,
+                "devis_hash": "55124346935dde6be1166dcc568f9845",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:55:30"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "olivier_deschard@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472806,
+                "devis_hash": "d0ed38f68b5dbdb7a5c8e3bf30943187",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:55:59"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "danthon@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472807,
+                "devis_hash": "2802e5db5f2ac0b53a8ed7fdb3b1505f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:56:11"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "renebartevian@hotmailr.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472809,
+                "devis_hash": "3dc40532cde25027cc3f46d1d5cc08c0",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:56:29"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "fathihdom@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472810,
+                "devis_hash": "43f2a5a18c73f23aa7e6b91c7dae3f7d",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:56:46"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rschneider5722@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472811,
+                "devis_hash": "56bbca760e11c726f86f87932d577d03",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:57:01"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "mgiovina@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472812,
+                "devis_hash": "735e4060e03cc45cc21f08f405a54506",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 14:57:15"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "roromainevienne@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472815,
+                "devis_hash": "8fc03efa95f476b45370f78595e332ec",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:00:13"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "danieledeyrieux@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472819,
+                "devis_hash": "f580b42b766a9c1e2d1ae4423f07af27",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:05:18"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "christophe.bailly@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472821,
+                "devis_hash": "96fc020e8bc0be35f47ed2c1efaa6ee4",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:05:59"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rene.meilland@laposte.net",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472823,
+                "devis_hash": "321cb0866124ba9f3f802ec46e6e8e8f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:06:32"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "lenanost@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472825,
+                "devis_hash": "b8beda021b4a5d44eab0dc2a425841f1",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:07:57"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "jljaner@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472827,
+                "devis_hash": "f41403e659e24f4bf865ae822f73733f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:08:19"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "stoygrig@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472851,
+                "devis_hash": "512ddfaf3725e9c1ea86eabd39b6e2b0",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:32:50"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "famille.lachemi@laposte.net",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472852,
+                "devis_hash": "0849011e34a147440c5c4b1ad25c22d9",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:33:53"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "Colettepl@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3472856,
+                "devis_hash": "7baa9aedc5f604c501219ff536c2cc1e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-06 15:37:12"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "nriad@outlook.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3473673,
+                "devis_hash": "b6dbf123d95741265f30f0b63c5dfdaa",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 10:01:13"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "jeff.info@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3473675,
+                "devis_hash": "3e0a0dd589c27d2a87cee569009fdcb3",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 10:02:25"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "clariepe1@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3473676,
+                "devis_hash": "2f05b5309cdb34f7507cf5f38265551d",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 10:02:41"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "marijohilaire@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3473678,
+                "devis_hash": "3910341f65ab576a8f9e30c1b84aab59",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 10:05:45"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "sergepasqualini@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3473796,
+                "devis_hash": "a3e95521f40ece1f178ec8b3fddc52a1",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 11:22:12"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "viviremigio@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3473797,
+                "devis_hash": "22143046bc5d80ac49d1c0fdcae59fed",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 11:22:32"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "moustache-44@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3474042,
+                "devis_hash": "7ce97e591bb33718c6b46abd10e9335f",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 15:46:52"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dr.sophie.baiz@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3474044,
+                "devis_hash": "d6dde51e737a30a05887069a021a60ca",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-07 15:47:15"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dongalalbert@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3474733,
+                "devis_hash": "69037f6c35f224cc36141eb1342ec85a",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-08 14:20:01"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "palatina@outlook.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3476626,
+                "devis_hash": "edaab60731bd17df3239ab71d575f689",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-10 15:49:02"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "sksed@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481591,
+                "devis_hash": "3d7f411e22c17ae94afe42255f6745aa",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 15:41:08"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "dali3114@outlook.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481593,
+                "devis_hash": "f2c81dc7038af94e8e8b91dc5e9faa8e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 15:42:52"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "diaz.francesca@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481629,
+                "devis_hash": "35f3a3d688bc39b469da06f15e1c67c9",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 16:05:39"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "nezihrachida6@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481643,
+                "devis_hash": "9735bfe3640d201b4a705de34cc3d7df",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 16:29:24"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rene.watteau@sfr.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481649,
+                "devis_hash": "9cde631ad0b8660a6f1d94ab63e9ef37",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 16:31:32"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "pareincorinne@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481650,
+                "devis_hash": "a8cee781579006769235186f291873b2",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 16:31:59"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "rahbjenn@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481651,
+                "devis_hash": "2f4bcf9b4af75553e0cc091c822e104e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 16:32:23"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "bos_mariedominique@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481652,
+                "devis_hash": "45856200618c06091ceb1ef615ee9147",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 16:35:31"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "chantalrochefort@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481676,
+                "devis_hash": "caf37bd5f430eb61fd3dbea4807744bb",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:09:34"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "car.duss@free.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481678,
+                "devis_hash": "02aade42d4c94ed77931fd52d1f62e17",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:10:53"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "hacquemandfred@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481684,
+                "devis_hash": "ad03fce450514313a389e095f8c8226e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:16:51"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "gyjolivet@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481685,
+                "devis_hash": "5fff61651f7613df895778dc68e33169",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:17:07"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "flica94@hotmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481688,
+                "devis_hash": "74268dc3ad246659b5c973c86bcd0af7",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:20:27"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "said.safer@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481689,
+                "devis_hash": "4c9e1bfac80a68503fb3de4457eb43ce",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:20:40"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "garance.13013@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481690,
+                "devis_hash": "fdfbb48f2948121b4bcf68170c2c0cda",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:21:29"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "magscoiffure@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481691,
+                "devis_hash": "0731e724ab9483579418fa715d20001b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:21:57"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "houacinefazia@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481692,
+                "devis_hash": "07a149a2e78ab9312a4a3064af1ca46b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:23:37"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "yves.spf27@secours-pop.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481696,
+                "devis_hash": "c4fd868810cda486c5a8070d35c22353",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:27:26"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "guehenloic@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481698,
+                "devis_hash": "5e7d6c000b00dd3a09310dbf3d6eac70",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:28:27"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "cathymottet@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481705,
+                "devis_hash": "e9f939ee1d298eea55a040695d6e17d2",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:31:25"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "cohard.alain@bbox.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481706,
+                "devis_hash": "1999f66437c8c46896e9c240c835c83e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:36:05"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "sazofemage@aol.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481708,
+                "devis_hash": "ddff1b58e0d43be8de5e3aa20dc0022b",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:37:01"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "psebban@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3481709,
+                "devis_hash": "f2e45ac9f1439dcb656eadca7aace8dc",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-07-17 17:39:37"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "garance.13013@gmail.com",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "109",
+                    "code_texte": "doublon"
+                }
+            ]
+        },
+        "http_code": 200,
+        "date": "2026-07-23 14:02:26"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "monybreyne@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3518347,
+                "devis_hash": "6d115ae34417deb6933629ffd2fe085e",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-07 10:05:02"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "campanileantoinette@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3518576,
+                "devis_hash": "659adc9b9593dcd18cceab29eb847253",
+                "devis_reversement": "11",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-07 12:49:21"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "fadna.kerbid@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520900,
+                "devis_hash": "2d42efd34c3304ab41604630a1ee5f76",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:10:02"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "bruniau59@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520901,
+                "devis_hash": "e1d5d94e889af71752d1cf4438fd4a6b",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:10:29"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "b_froment@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520906,
+                "devis_hash": "50bd46c9288190155fb16e23f6018598",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:12:02"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "valoudu13@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520912,
+                "devis_hash": "7e341181f707d80b123fcb8c4fc91476",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:14:38"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "gomiotbrigitte@yahoo.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520918,
+                "devis_hash": "3fba44e38774391aa3d857102a6eaaa7",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:20:06"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "bertrand.barbedette@sfr.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520922,
+                "devis_hash": "2b31308e4b2ed6e80c1f4c2e84a72e63",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:23:59"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "mamideseyssuel@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520923,
+                "devis_hash": "59e33e5bc31ce1e8ebf5250220ee2252",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:24:19"
+    },
+    {
+        "campagne": "douche#3",
+        "category_id": 160,
+        "email": "nora.dj@hotmail.fr",
+        "api_response": {
+            "code_retour": [
+                {
+                    "code": "200",
+                    "code_texte": "ok"
+                }
+            ],
+            "devis_data": {
+                "devis_id": 3520924,
+                "devis_hash": "b4f790e685c72413ef3a88ef7ec9d55b",
+                "devis_reversement": "10",
+                "devis_montant_attention": "Le reversement final de ce lead peut etre modifie au moment de sa validation."
+            }
+        },
+        "http_code": 200,
+        "date": "2026-09-10 11:24:34"
+    }
+]

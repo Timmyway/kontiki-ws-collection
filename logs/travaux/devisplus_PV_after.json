@@ -1,0 +1,338 @@
+[
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testkipre.rachel@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 13:31:25"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testmaher@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 14:14:03"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testkipres.rachel@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 14:23:45"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testkipreese.rachel@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 14:29:28"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testkipreeses.racheles@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:03:26"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testkiprrach@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:01:19"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "testpanneau@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:13:16"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "vboiseau@icloud.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:41:17"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "kalou1971@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:42:55"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "mariechristine.pennetier2@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 11:04:42"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "marie38943@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 11:06:08"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "aura.iordache@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 11:40:43"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "philippe.gabarrus@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:07:39"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "jeanmarie.caquineau@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:12:49"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "pat.haution@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:14:29"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "serge7777fr@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:17:19"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "seguin_stephane@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:55:20"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "e.fabrizi@bbox.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 14:29:17"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "taillade.monique@bbox.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 15:34:43"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "mladesbie14@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 15:49:02"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "allasarki@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 15:49:25"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "christiane.hoslin@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 16:03:38"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "simon-nanou@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 16:07:30"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "jeanpauldumas@rocketmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 09:33:52"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "tinau2@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 09:53:48"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "florentin.despret@orange.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 09:59:40"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "Johan.guyon@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 10:02:31"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "rodolphe.christen@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 10:06:55"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "jpb8711@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:37:07"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "nancywalden@hotmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:56:23"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "huguette.bastien@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 14:21:01"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "ggilardone@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 14:49:14"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "noellesaing70@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 14:53:00"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "lebga_abdelmalek@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 15:08:18"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "renedrzewiecki@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 15:17:17"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "thibyke@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:16:26"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "eloduweb@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:23:04"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "huguette.bastien@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:39:10"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "mosel09@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:53:33"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "nancywalden@hotmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:09:38"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "jpb8711@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:20:25"
+    },
+    {
+        "campagne": "PV",
+        "codeMetier": "P12",
+        "email": "mounelectricite@outlook.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:30:26"
+    }
+]

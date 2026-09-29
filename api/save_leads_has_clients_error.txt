@@ -1,0 +1,5 @@
+Error: Object of class stdClass could not be converted to string in /var/www/budgetdevis/ws-collections/app/Requests/SavesRequests.php:54
+Stack trace:
+#0 /var/www/budgetdevis/ws-collections/app/Controllers/LeadsController.php(338): App\Requests\SavesRequests::save_leads_has_client_query()
+#1 /var/www/budgetdevis/ws-collections/api/send.php(174): App\Controllers\LeadsController::save_leads_has_clients()
+#2 {main}

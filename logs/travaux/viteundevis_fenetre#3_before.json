@@ -1,0 +1,77 @@
+[
+    {
+        "campagne": "fenetre#3",
+        "category_id": 72,
+        "email": "test.2508@gmail.com",
+        "data": {
+            "nom": "Test",
+            "prenom": "Test",
+            "email": "test.2508@gmail.com",
+            "adresse1": "80 rue du Patchouli - Redoute voie 4",
+            "cp": "75000",
+            "ville": "Paris 01",
+            "cp_projet": "75000",
+            "ville_projet": "Paris 01",
+            "tp": 2,
+            "delais": 1,
+            "key": "176157443468ff7e2292fb968ff7e2292ff5",
+            "tel": "0655987563",
+            "cat_id": 72,
+            "type_bien": 2,
+            "situation": 1,
+            "description": "Installation complète",
+            "format_return": "json"
+        },
+        "date": "2025-11-12 14:46:14"
+    },
+    {
+        "campagne": "fenetre#3",
+        "category_id": 72,
+        "email": "testfenetre@gmail.com",
+        "data": {
+            "nom": "Test",
+            "prenom": "Test",
+            "email": "testfenetre@gmail.com",
+            "adresse1": "65 rue des joncs",
+            "cp": "45200",
+            "ville": "Amilly",
+            "cp_projet": "45200",
+            "ville_projet": "Amilly",
+            "tp": 1,
+            "delais": 3,
+            "key": "176157443468ff7e2292fb968ff7e2292ff5",
+            "tel": "0645123500",
+            "cat_id": 72,
+            "type_bien": 2,
+            "situation": 1,
+            "description": "Maintenance régulière",
+            "format_return": "json"
+        },
+        "date": "2025-11-12 14:53:52"
+    },
+    {
+        "campagne": "fenetre#3",
+        "category_id": 72,
+        "email": "abli0600@gmail.com",
+        "data": {
+            "nom": "Blindermann",
+            "prenom": "Alain",
+            "email": "abli0600@gmail.com",
+            "adresse1": "45 bis chemin Valentin",
+            "cp": "06600",
+            "ville": "Antibes",
+            "cp_projet": "06600",
+            "ville_projet": "Antibes",
+            "tp": 1,
+            "delais": 2,
+            "key": "176157443468ff7e2292fb968ff7e2292ff5",
+            "tel": "0652217540",
+            "cat_id": 72,
+            "type_bien": 2,
+            "situation": 1,
+            "description": "Installation complète",
+            "format_return": "json"
+        },
+        "date": "2025-12-10 13:58:41"
+    }
+]

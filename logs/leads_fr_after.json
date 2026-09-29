@@ -1,0 +1,1 @@
+[{"error":406,"message":"le champ 'adresse' de type (STRING) est manquant."},{"error":407,"message":"le champ 'ddn' de type (DATE) n'est pas valide. Format attentu : (YYYY-MM-DD)"},{"error":407,"message":"le champ 'ddn' de type (DATE) n'est pas valide. Format attentu : (YYYY-MM-DD)"},{"success":1,"message":"Lead enregistr\u00e9 avec succ\u00e8s","lead_id":"1260297"}]

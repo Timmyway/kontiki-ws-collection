@@ -1,0 +1,314 @@
+[
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "caroletest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 13:38:56"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "test@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 14:05:10"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "tests@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:06:07"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "testspac@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:10:35"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "testpac@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:14:53"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mmh.57@neuf.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:45:44"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "rodier.muriel@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 10:10:00"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "alaindeboosere@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 10:35:14"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "lauquinlydia@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 10:40:42"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "rabiller.bernard@neuf.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 11:59:57"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "decaudin.alain@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:07:16"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mca702001@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:28:59"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "bernardbrurot@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 14:23:30"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "garciamonique64@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 10:06:51"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mariereneejan151@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 10:08:53"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "fatyabdou@hotmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 10:29:50"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "wassa.krifa@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 10:40:16"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "richard.saumon@insa-strasbourg.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 12:27:35"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "montresor37@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:46:35"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "jeanluc.lorriaux@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:47:03"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "cecile.basset@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:48:39"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "rabiller.bernard@neuf.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 14:51:28"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mca702001@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 14:52:40"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "delphinecamus1@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 15:06:43"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "elisabeth.leblanc46@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 15:24:42"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "deville.jonathan@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 15:36:03"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mca702001@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:18:59"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "nicole.assolen@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:21:53"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "lauretiffen@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:40:44"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "armelle.duchazaud@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:46:15"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "nmeddyange@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 14:58:38"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "daniel.jouy@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:08:33"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "alainpourtugau@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:21:13"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "florencephilippeau@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:28:17"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mocydlarz.marc@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:33:50"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "mladesbie14@yahoo.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:39:33"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "christian.robyn@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:43:47"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "ericou1610@msn.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-28 15:48:08"
+    },
+    {
+        "campagne": "PAC",
+        "codeMetier": "P02",
+        "email": "marquesteam1@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-30 09:28:43"
+    }
+]

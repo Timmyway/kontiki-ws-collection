@@ -1,0 +1,586 @@
+[
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "xiakuntest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:28:32"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "xiaskunstest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:40:48"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "xiasskunsstest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:42:09"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "kineddystest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-21 15:48:32"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "kinseddystest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 09:47:14"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "kidseddystest@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 09:56:46"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "Testdouche@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:16:10"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "sksed@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:46:19"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "dali3114@outlook.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 10:58:19"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "diaz.francesca@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 11:41:57"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "fatinata_57@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 11:44:42"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "rahbjenn@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:08:19"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "bos_mariedominique@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:17:44"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "chantalrochefort@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:19:53"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "car.duss@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 12:49:45"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "hacquemandfred@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 14:12:48"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "gyjolivet@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 15:35:14"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "fchasset@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 15:40:06"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "christian.11@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-22 16:08:04"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "d.monel59@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 09:35:50"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "breuilmartine@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 09:46:14"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "nathalie.adaire@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 09:56:19"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "yaminamankour@icloud.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 10:50:27"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "bellahceneahmed@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 11:06:33"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "maribija@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 11:26:36"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "psebban@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 11:29:24"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "sazofemage@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:00:58"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "cohard.alain@bbox.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:24:53"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "cathymottet@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:47:44"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "guehenloic@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:53:00"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "yves.spf27@secours-pop.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:57:06"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "houacinefazia@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:58:06"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "magscoiffure@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 12:59:11"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "garance.13013@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 14:02:52"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "said.safer@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 14:12:31"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "pareincorinne@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 14:50:33"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "rene.watteau@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 15:11:43"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "nivet.corinne@bbox.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 15:45:26"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "bzeghouda1@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 16:19:17"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "matineb@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 16:52:25"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "sypuce28@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-23 17:43:00"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "haouaba34@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 09:04:23"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "saidyahyaoui@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 11:29:00"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "Abdoulrassoul2@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 12:49:12"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "martine.lasne@laposte.net",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 14:06:43"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "mcdaville@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 14:30:11"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "Claude.Lebrun8@orange.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 14:35:50"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "ROGER.RICHART@ORANGE.FR",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 15:10:47"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "u3925927776@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 15:15:41"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "maribija@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 16:00:42"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "bellahceneahmed@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 16:10:14"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "breuilmartine@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 16:12:30"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "fchasset@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 16:13:01"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "d.monel59@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-24 16:18:32"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "christian.11@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:43:45"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "sylvane499@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:44:55"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "renebartevian@hotmailr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:50:44"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "danthon@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:55:28"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "olivier_deschard@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 09:57:06"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "christian.valentin10@sfr.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:01:54"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "LESZANDECK@HOTMAIL.FR",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:08:21"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "jamomavi@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:12:38"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "verojankowski@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:14:24"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "nathalie.sarcelet@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:20:38"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "peter48@free.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:29:20"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "marieclairebonnet12@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:31:29"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "Daniel_colloni@orange.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:37:09"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "gaby.bruche@hotmail.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 10:46:56"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "smahassani@yahoo.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 11:09:59"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "hmaguilar@orange.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 11:10:21"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "marie.christine.coigne@gmail.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 11:11:08"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "azerpol@aol.com",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 11:11:30"
+    },
+    {
+        "campagne": "douche",
+        "codeMetier": "D04",
+        "email": "grosset-michel@orange.fr",
+        "api_response": "<html>\n<head>\n<\/head>\n<body text=\"#000000\">\nDevis transmise \n<\/body>\n<\/html>\n",
+        "http_code": 200,
+        "date": "2026-07-27 11:11:37"
+    }
+]
