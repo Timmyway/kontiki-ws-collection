@@ -11,6 +11,7 @@ use App\Controllers\LoginController;
 use App\Controllers\RachatCreditController;
 use App\Controllers\SecurityController;
 use App\Controllers\TravauxController;
+use App\Controllers\JeConduisController;
 
 use App\Providers\CityProvider;
 use App\Providers\DeliveryDestinationProvider;
@@ -406,6 +407,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+            } elseif (in_array($login_data['partname'], $partners["jeconduis"])) {
+                /**
+                 * create lead jeconduis DATA payload
+                 * then save the payload to the "assurance_sante" table of the DB.
+                 */
+                
+                $jeuconduis = JeConduisController::makeJeConduisData($input_data);
+                
+                JeConduisController::save($conn, $lead, $jeuconduis);
+                // No delivery for this module. 
             }
 
             if ($last_insert_id) {

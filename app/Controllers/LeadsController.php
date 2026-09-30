@@ -109,9 +109,6 @@ class LeadsController
             // Opposition Démarchage Postal
             "optout_postal"      => !empty($input_data['optoutPostal']) ? 1 : 0,
         );
-//         var_dump($input_data);
-//         var_dump("----------------------");
-// var_dump($lead);
 
         return $lead;
     }
