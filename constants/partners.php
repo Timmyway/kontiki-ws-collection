@@ -21,6 +21,7 @@ $partners = array(
         "kontiki-19",
 		"kontiki-82",
     ],
+    "jeconduis" => ["jeconduis-01"],
     "travaux_kontiki_ID" => array(
         "kontiki-20" => "13",
         "kontiki-18" => "19",
@@ -32,7 +33,7 @@ $partners = array(
         "kontiki-75" => "19",
         "kontiki-19" => "22",
 		"kontiki-82"=> "32",
-    ),
+    )
     /*
     "is_email_verify"     => [
         "kontiki-57"
