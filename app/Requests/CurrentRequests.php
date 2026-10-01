@@ -62,7 +62,6 @@ class CurrentRequests
      */
     public static function counts_specifics_query($partenaire, $partners, $begin_query, $end_query): string
     {
-
         if (in_array($partenaire, $partners["travaux"])) {
             /* --- for tag = TRAVAUX --- */
             return $begin_query . ' INNER JOIN travaux ON travaux.leads_id = leads.id ' . $end_query;
@@ -87,6 +86,9 @@ class CurrentRequests
         } elseif (in_array($partenaire, $partners["assurance"])) {
             /* --- for tag = ASSURANCE(Mutuelle senior) --- */
             return $begin_query . ' INNER JOIN assurance ON assurance.leads_id = leads.id ' . $end_query;
+        } elseif (in_array($partenaire, $partners["jeconduis"])) {
+            /* --- for tag = JECONDUIS --- */
+            return $begin_query . ' INNER JOIN jeconduis ON jeconduis.leads_id = leads.id ' . $end_query;
         } else {
             return '';
         }
@@ -142,6 +144,10 @@ class CurrentRequests
             /* --- for tag = ASSURANCE(mutuelle Senior) --- */
             return $begin_query . ' assurance.besoin, assurance.regime_social, assurance.profession, assurance.profession_compl, assurance.situation_famille, assurance.nombre_enfant, assurance.assurer_conjoint, assurance.cid, assurance.custom_field_1, assurance.custom_field_2, assurance.custom_field_3, assurance.custom_field_4, assurance.custom_field_5, assurance.custom_field_6  
             FROM leads INNER JOIN assurance ON assurance.leads_id = leads.id ' . $end_query;
+        } elseif (in_array($partenaire, $partners["jeconduis"])) {
+            /* --- for tag = JECONDUIS --- */
+            return $begin_query . ' jeconduis.country, jeconduis.origine, jeconduis.datecollecte, jeconduis.urlcollecte, jeconduis.delai, jeconduis.type_achat, jeconduis.financement, jeconduis.budget, jeconduis.nb_personnes, jeconduis.usage, jeconduis.kilometrage, jeconduis.motorisation, jeconduis.borne_recharge, jeconduis.boite, jeconduis.priorite, jeconduis.carrosserie, jeconduis.marques_modeles, jeconduis.duree_conservation, jeconduis.note_libre, jeconduis.recommendation_source
+            FROM leads INNER JOIN jeconduis ON jeconduis.leads_id = leads.id ' . $end_query;
         } else {
             return '';
         }

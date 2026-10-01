@@ -24,7 +24,10 @@ class LeadsController
             if($key === 'id'){
                 continue;
             }
-            if (is_array($value)) {
+            if($value == NULL){
+                $array[$key] = "";
+            }
+            else if (is_array($value)) {
                 // If the value is an array, call this function recursively.
                 $array[$key] = LeadsController::decodeResponse($value);
             } else {
