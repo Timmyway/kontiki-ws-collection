@@ -11,6 +11,7 @@ use App\Controllers\LeadsController;
 use App\Controllers\RachatCreditController;
 use App\Controllers\SecurityController;
 use App\Controllers\TravauxController;
+use App\Controllers\JeConduisController;
 use App\Providers\CityProvider;
 
 
@@ -136,9 +137,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                      * leads tag assurance_auto updated.
                      */
                 } elseif (in_array($login_data['partname'], $partners["assurance"])) {
-                    
                     $assurance_data = AssuranceSanteController::makeData($input_data['insurances']);
                     $success_update_tags = AssuranceSanteController::update($conn, $lead, $assurance_data);
+                    /**
+                     * leads tag assurance updated.
+                     */
+                } elseif (in_array($login_data['partname'], $partners["jeconduis"])) {  
+                    $jeconduis_data = JeConduisController::makeJeConduisData($input_data['jeconduis']);
+                    $success_update_tags = JeConduisController::update($conn, $lead, $jeconduis_data);
                     /**
                      * leads tag assurance updated.
                      */
