@@ -1,0 +1,30 @@
+[
+    {
+        "status": "error",
+        "api_response": "{\"message\":\"firstname is not valid, reason: Francoise test is not a valid first name.; lastname is not valid, reason: Fouquet test is not valid.\"}",
+        "id_part": "",
+        "ws_statut": "error",
+        "description": "firstname is not valid, reason: Francoise test is not a valid first name.; lastname is not valid, reason: Fouquet test is not valid."
+    },
+    {
+        "status": "success",
+        "api_response": "{\"success\":true,\"message\":\"Collecte cr\\u00e9\\u00e9e\"}",
+        "id_part": "",
+        "ws_statut": "success",
+        "description": "Collecte cr\u00e9\u00e9e avec succ\u00e8s"
+    },
+    {
+        "status": "success",
+        "api_response": "{\"success\":true,\"message\":\"Collecte cr\\u00e9\\u00e9e avec succ\\u00e8s\"}",
+        "id_part": "",
+        "ws_statut": "success",
+        "description": "Collecte cr\u00e9\u00e9e avec succ\u00e8s"
+    },
+    {
+        "status": "success",
+        "api_response": "{\"success\":true,\"message\":\"Collecte cr\\u00e9\\u00e9e avec succ\\u00e8s\",\"http_code\":200}",
+        "id_part": "",
+        "ws_statut": "success",
+        "description": "Collecte cr\u00e9\u00e9e avec succ\u00e8s"
+    }
+]

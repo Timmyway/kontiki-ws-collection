@@ -1,0 +1,50 @@
+[
+    {
+        "deliveryId": 1765,
+        "authKey": "67db34b6f44aee5d24cc239b7742538a",
+        "civilityModelId": "3639",
+        "firstName": "Karoll",
+        "lastName": "Atexide",
+        "address": "Rue du baignoir",
+        "postalCode": "13001",
+        "city": "Marseille 01",
+        "email": "jimmy.sylvestre827@orange.fr",
+        "phoneNumber": "0633558849",
+        "birthDate": null,
+        "ownerTypeModelId": "3657",
+        "assetTypeModelId": "3655",
+        "heatingTypeModelId": "3652"
+    },
+    {
+        "deliveryId": 1765,
+        "authKey": "67db34b6f44aee5d24cc239b7742538a",
+        "civilityModelId": "3639",
+        "firstName": "Estelle",
+        "lastName": "Planquart",
+        "address": "Rue du pl\u00e2tre",
+        "postalCode": "75004",
+        "city": "Paris 04",
+        "email": "estelplan@hotmail.fr",
+        "phoneNumber": "0635243089",
+        "birthDate": null,
+        "ownerTypeModelId": "3657",
+        "assetTypeModelId": "3655",
+        "heatingTypeModelId": "3650"
+    },
+    {
+        "deliveryId": 1765,
+        "authKey": "67db34b6f44aee5d24cc239b7742538a",
+        "civilityModelId": "3639",
+        "firstName": "Donia",
+        "lastName": "Mtat",
+        "address": "Rue maccarani",
+        "postalCode": "75000",
+        "city": "Paris 75",
+        "email": "donia8054@gmail.com",
+        "phoneNumber": "0628044634",
+        "birthDate": null,
+        "ownerTypeModelId": "3657",
+        "assetTypeModelId": "3655",
+        "heatingTypeModelId": "3651"
+    }
+]

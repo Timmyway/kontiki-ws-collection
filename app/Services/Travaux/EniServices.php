@@ -218,7 +218,9 @@ class EniServices extends \App\Services\ApiService
         $classics = $travauxModel->getClassics();
         $specifics = $travauxModel->getSpecifics();
 
-        $baseUrl = "https://flexlead.leadbyte.co.uk/api/submit.php";
+        // $baseUrl = "https://flexlead.leadbyte.co.uk/api/submit.php";
+        $baseUrl = "https://flexlead.leadbyte.co.uk/restapi/v1.3/leads";
+        $apiKey  = '02ea2da5f2daa4d9c464dd5a7450abd2';
 
         $birthdate = $classics['birthdate'] ?? "22/01/1980";
 
@@ -257,6 +259,7 @@ class EniServices extends \App\Services\ApiService
                 'returnjson' => 'yes',
                 'campid'     => 'ENERGIE---FR',
                 'sid'        => '79',
+                'testmode' => 'yes',
                 'email'      => $classics['email'],
                 'firstname'  => $classics['firstname'],
                 'lastname'   => $classics['lastname'],
@@ -264,23 +267,44 @@ class EniServices extends \App\Services\ApiService
                 'street1'    => $classics['address'],
                 'towncity'   => $classics['city'],
                 'postcode'   => $classics['zipcode'],
-                'phone1'     => $classics['phone'],
+                // 'phone1'     => $classics['phone'],
+                'phone1' => preg_replace('/^\+33/', '0', preg_replace('/[\s.\-]/', '', $classics['phone'])),
                 "chauffage"  => "Autre",
-                "fournisseur_actuel"=> $fournisseur[$specifics['custom_field_4']],
-                "quelle_offre" => $offre[$specifics['custom_field_1']],
-                "mensualite" => $mensualite[$specifics['custom_field_5']],
+                // "fournisseur_actuel"=> $fournisseur[$specifics['custom_field_4']],
+                // "quelle_offre" => $offre[$specifics['custom_field_1']],
+                // "mensualite" => $mensualite[$specifics['custom_field_5']],
+                "fournisseur_actuel" => $fournisseur[$specifics['custom_field_4'] ?? ''] ?? 'Autre',
+                "quelle_offre"       => $offre[$specifics['custom_field_1'] ?? ''] ?? 'Électricité',
+                "mensualite"         => $mensualite[$specifics['custom_field_5'] ?? ''] ?? 'Je ne sais pas',
                 "le_plus_important" => "Autre",
             ];
 
-            // construit automatiquement :
-            // ?returnjson=yes&campid=...
-            $url = $baseUrl . '?' . http_build_query($params);
+           
+            parent::logger('../logs/travaux/eni_FlexyLead_before.json', $params);
 
-            parent::logger('../logs/travaux/eni_FlexyLead_before.json', $url);
+            $ch = curl_init($baseUrl);
+            curl_setopt_array($ch, [
+                CURLOPT_POST           => true,
+                CURLOPT_POSTFIELDS     => http_build_query($params),
+                CURLOPT_HTTPHEADER     => [
+                    'X_KEY: ' . $apiKey,
+                    'Content-Type: application/x-www-form-urlencoded',
+                ],
+                CURLOPT_RETURNTRANSFER => true,
+                CURLOPT_TIMEOUT        => 30,
+            ]);
+            $raw       = curl_exec($ch);
+            $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+            $curl_err  = curl_error($ch);
+            curl_close($ch);
 
-            // appel GET
-            $curl_response = CurlProvider::get_requests($url);
+            parent::logger('../logs/travaux/eni_FlexyLead_http.json', [
+                'http_code' => $http_code,
+                'curl_err'  => $curl_err,
+                'raw'       => $raw,
+            ]);
 
+            $curl_response = [$raw];
             $responses = json_decode($curl_response[0], true);
 
             parent::logger('../logs/travaux/eni_FlexyLead_after.json', $responses);
@@ -290,7 +314,8 @@ class EniServices extends \App\Services\ApiService
                 return [
                     "status"       => "success",
                     "api_response" => $curl_response,
-                    "id_part"      => $responses['leadId'] ?? 0,
+                    // "id_part"      => $responses['leadId'] ?? 0,
+                    "id_part" => $responses['results'][0]['queueId'] ?? 0,
                     "ws_statut"    => "ok",
                     "description"  => "lead sent successfully to Flexylead",
                 ];
@@ -301,7 +326,8 @@ class EniServices extends \App\Services\ApiService
                     "status"       => "error",
                     "api_response" => $curl_response,
                     "id_part"      => "",
-                    "ws_statut"    => $responses['response'] ?? 'Unknown error',
+                    // "ws_statut"    => $responses['response'] ?? 'Unknown error',
+                    "ws_statut" => $responses['errors'][0] ?? $responses['message'] ?? 'Unknown error',
                     "description"  => "error sending lead to Flexylead",
                 ];
             }

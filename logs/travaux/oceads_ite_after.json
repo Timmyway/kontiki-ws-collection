@@ -1,0 +1,17 @@
+[
+    {
+        "status": 3,
+        "statusText": "rejected",
+        "reason": "Missing authentication key"
+    },
+    {
+        "status": 3,
+        "statusText": "rejected",
+        "reason": "Missing authentication key"
+    },
+    {
+        "status": 3,
+        "statusText": "rejected",
+        "reason": "Missing authentication key"
+    }
+]

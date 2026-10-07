@@ -1,0 +1,28 @@
+[
+    {
+        "campagne": "pannsol#25",
+        "codeMetier": "P12",
+        "email": "s.rzoult@stjudr.fr",
+        "data": {
+            "nomPartenaire": "Scup",
+            "cleAcces": "Scup17072026",
+            "codeMetier": "P12",
+            "nom": "H",
+            "prenom": "S",
+            "adresse": "Armentières",
+            "codePostal": "59280",
+            "ville": "Armentieres",
+            "telephone": "0676821161",
+            "eMail": "s.rzoult@stjudr.fr",
+            "Profil": "Particulier",
+            "civilite": "M",
+            "Situation": "Proprietaire",
+            "typeDhabitat": "Maison \/ Pavillon",
+            "typeTravaux": "Rénovation",
+            "delai": "Immédiat",
+            "descProjet": "Diagnostic ou devis",
+            "idfiche": 116034
+        },
+        "date": "2026-07-21 13:14:54"
+    }
+]

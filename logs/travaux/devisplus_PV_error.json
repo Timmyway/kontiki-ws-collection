@@ -1,0 +1,8 @@
+[
+    {
+        "campagne": "PV",
+        "email": "alain_lemairetest@hotmail.fr",
+        "error": "Erreur cURL: Failed to connect to infos.devis-plus.com port 443 after 21054 ms: Could not connect to server",
+        "date": "2026-07-21 13:19:25"
+    }
+]
