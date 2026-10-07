@@ -1,8 +1,6 @@
 <?php
 
 namespace App\Controllers;
-use App\Requests\SavesRequests;
-
 
 class JeConduisController
 {
@@ -17,7 +15,7 @@ class JeConduisController
         /**
         * create lead jeconduis DATA payload
         */
-        $jeu_conduis_data = array(
+        $je_conduis_data = array(
             "country" => $input_data['country'] ?? '',
             "origine" => $input_data['origine'] ?? '',
             "datecollecte" => $input_data['datecollecte'] ?? NULL,
@@ -40,7 +38,7 @@ class JeConduisController
             "recommendation_source" => $input_data['recommendation_source'] ?? '',
         );
 
-        return $jeu_conduis_data;
+        return $je_conduis_data;
     }
 
     /**

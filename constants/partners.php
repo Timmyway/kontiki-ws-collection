@@ -33,7 +33,8 @@ $partners = array(
         "kontiki-75" => "19",
         "kontiki-19" => "22",
 		"kontiki-82"=> "32",
-    )
+    ),
+    "boussole_retraite" => ["boussole-retraite-01"],
     /*
     "is_email_verify"     => [
         "kontiki-57"

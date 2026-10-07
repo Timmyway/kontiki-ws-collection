@@ -23,7 +23,7 @@ class SavesRequests
                 \'' . $lead['civility'] . '\',
                 \'' . $lead['birthdate'] . '\',
                 \'' . base64_encode($lead['zipcode']) . '\',
-                \'' . base64_encode($lead['address']) . '\',
+                \'' . base64_encode($lead['address'] ?? "") . '\',
                 \'' . base64_encode($lead['city']) . '\',
                 \'' . base64_encode($lead['phone']) . '\',
                 \'' . $lead['affiliateID'] . '\',

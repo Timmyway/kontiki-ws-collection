@@ -12,6 +12,7 @@ use App\Controllers\RachatCreditController;
 use App\Controllers\SecurityController;
 use App\Controllers\TravauxController;
 use App\Controllers\JeConduisController;
+use App\Controllers\BoussoleRetraiteController;
 
 use App\Providers\CityProvider;
 use App\Providers\DeliveryDestinationProvider;
@@ -85,7 +86,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             "email"        => $input_data['email'],
             "birthdate" => isset($input_data['birthdate']) && !empty($input_data['birthdate']) ? date("Y-m-d", strtotime($input_data['birthdate'])) : null,
             "mobile"       => substr(preg_replace('/[^\d]/', '', $input_data['phone']), 0, 2) == "33" ? '0' . substr(preg_replace('/[^\d]/', '', $input_data['phone']), 2) : preg_replace('/[^\d]/', '', $input_data['phone']),
-            "civility"     => $gender[$input_data['civility']],
+            "civility"     => isset($input_data['civility']) && array_key_exists($input_data['civility'], $gender) ? $gender[$input_data['civility']] : "",
             "lastname"     => $input_data['lastname'],
             "firstname"    => $input_data['firstname'],
             "adresse1"     => $input_data['address'] ?? "",
@@ -410,12 +411,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             } elseif (in_array($login_data['partname'], $partners["jeconduis"])) {
                 /**
                  * create lead jeconduis DATA payload
-                 * then save the payload to the "assurance_sante" table of the DB.
+                 * then save the payload to the "jeconduis" table of the DB.
                  */
                 
                 $jeuconduis = JeConduisController::makeJeConduisData($input_data);
                 
                 JeConduisController::save($conn, $lead, $jeuconduis);
+                // No delivery for this module. 
+            } elseif (in_array($login_data['partname'], $partners["boussole_retraite"])) {
+                /**
+                 * create lead boussole retraite DATA payload
+                 * then save the payload to the "boussole_retraite" table of the DB.
+                 */
+                
+                $boussole_retraite = BoussoleRetraiteController::makeBoussoleRetraiteData($input_data);
+                
+                BoussoleRetraiteController::save($conn, $lead, $boussole_retraite);
                 // No delivery for this module. 
             }
 
