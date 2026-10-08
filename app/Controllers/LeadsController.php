@@ -134,13 +134,11 @@ class LeadsController
             $list_query = CurrentRequests::which_query($partenaire, $offset, $limit, $partners);
             $rows       = ConnexionProvider::fetch_all($conn, $list_query);
 
-
             /** 
              * next get leads count.
              */
             $count_query = CurrentRequests::which_count_query($partenaire, $partners);
             $leads_count = ConnexionProvider::fetch_count($conn, $count_query);
-
 
             /** 
              * next get todays leads count.

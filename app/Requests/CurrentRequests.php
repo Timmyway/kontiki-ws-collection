@@ -89,6 +89,9 @@ class CurrentRequests
         } elseif (in_array($partenaire, $partners["jeconduis"])) {
             /* --- for tag = JECONDUIS --- */
             return $begin_query . ' INNER JOIN jeconduis ON jeconduis.leads_id = leads.id ' . $end_query;
+        } elseif (in_array($partenaire, $partners["boussole_retraite"])) {
+            /* --- for tag = BOUSOLE RETRAITE --- */
+            return $begin_query . ' INNER JOIN boussole_retraite ON boussole_retraite.leads_id = leads.id ' . $end_query;
         } else {
             return '';
         }
@@ -148,6 +151,9 @@ class CurrentRequests
             /* --- for tag = JECONDUIS --- */
             return $begin_query . ' jeconduis.country, jeconduis.origine, jeconduis.datecollecte, jeconduis.urlcollecte, jeconduis.delai, jeconduis.type_achat, jeconduis.financement, jeconduis.budget, jeconduis.nb_personnes, jeconduis.usage, jeconduis.kilometrage, jeconduis.motorisation, jeconduis.borne_recharge, jeconduis.boite, jeconduis.priorite, jeconduis.carrosserie, jeconduis.marques_modeles, jeconduis.duree_conservation, jeconduis.note_libre, jeconduis.recommendation_source
             FROM leads INNER JOIN jeconduis ON jeconduis.leads_id = leads.id ' . $end_query;
+        } elseif (in_array($partenaire, $partners["boussole_retraite"])) {
+            /* --- for tag = BOUSSOLE_RETRAITE --- */
+            return $begin_query . ' boussole_retraite.tranche_age, boussole_retraite.preoccupation, boussole_retraite.preparation, boussole_retraite.connaissances, boussole_retraite.risque, boussole_retraite.statut_logement, boussole_retraite.revenu, boussole_retraite.capacite_epargne, boussole_retraite.profile_id, boussole_retraite.profile_name, boussole_retraite.lead_temperature, boussole_retraite.tags FROM leads INNER JOIN boussole_retraite ON boussole_retraite.leads_id = leads.id ' . $end_query;
         } else {
             return '';
         }
