@@ -62,7 +62,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             } else {
                 $filepath_second_part = $input_data['export_criteria']["start_date"] . '_' . $input_data['export_criteria']["end_date"] . ".xlsx";
             }
-            $filepath = '../storages/app/exports/' . $filepath_main_title . $filepath_second_part;
+
+            $safe = static fn(string $s): string => preg_replace('/[^A-Za-z0-9._-]+/', '-', $s);
+            $filename = $safe($filepath_main_title . $filepath_second_part) . '.xlsx';
+            $filepath = '../storages/app/exports/' . $filename;
 
             // check if file already exist then delete it and re-download it.
             if (file_exists($filepath)) {
@@ -70,25 +73,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
             // Proceed with the export.
             $export_data = LeadsController::downloadable_leads($login_data['partname'], $input_data['export_reason'], $input_data['export_criteria'], $conn);
-            if ($export_data['rows']) {
+            
+            if (isset($export_data) && $export_data['rows']) {
                 $ExcelCreatorProvider = new ExcelCreatorProvider($filepath, $export_data['headers']);
                 $ExcelCreatorProvider->createFile();
 
                 $ExcelWriterProvider = new ExcelWriterProvider($filepath);
                 foreach ($export_data['rows'] as $row) {
                     $ExcelWriterProvider->appendRow(array_values($row));
-                    $ExcelWriterProvider->save();
-                }
+                    }
+                $ExcelWriterProvider->save();
 
                 header("HTTP/1.1 202 Accepted");
                 header('Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
                 header('Content-Disposition: attachment;filename="' . $filepath_main_title . $filepath_second_part . '"');
                 $ExcelWriterProvider->download();
             } else {
-                header("HTTP/1.1 406 Not Acceptable");
+                header("HTTP/1.1 200 OK");
                 $response = array(
                     "status"  => "error",
-                    "message" => "No such data to export.."
+                    "message" => "No such data to export..",
+                    "data" => $export_data
                 );
                 echo json_encode($response);
             }
