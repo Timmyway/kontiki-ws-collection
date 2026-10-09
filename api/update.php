@@ -12,6 +12,7 @@ use App\Controllers\RachatCreditController;
 use App\Controllers\SecurityController;
 use App\Controllers\TravauxController;
 use App\Controllers\JeConduisController;
+use App\Controllers\BoussoleRetraiteController;
 use App\Providers\CityProvider;
 
 
@@ -145,21 +146,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 } elseif (in_array($login_data['partname'], $partners["jeconduis"])) {  
                     $jeconduis_data = JeConduisController::makeJeConduisData($input_data['jeconduis']);
                     $success_update_tags = JeConduisController::update($conn, $lead, $jeconduis_data);
-                    /**
-                     * leads tag assurance updated.
-                     */
+                } elseif (in_array($login_data['partname'], $partners["boussole_retraite"])) {  
+                    $boussole_retraite = BoussoleRetraiteController::makeBoussoleRetraiteData($input_data['bas_de_laine']);
+                    $success_update_tags = BoussoleRetraiteController::update($conn, $lead, $boussole_retraite);
                 }
 
-
                 if (! $success_update_tags) {
-
                     // close database connexion
                     mysqli_close($conn);
 
                     // return response
                     $response = array(
                         "status"  => "error",
-                        "message" => "Error when updating table travaux data.. "
+                        "message" => "Error when updating table data.. "
                     );
 
                     header("HTTP/1.1 406 Not Acceptable");

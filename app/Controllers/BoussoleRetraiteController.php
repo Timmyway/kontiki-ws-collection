@@ -72,8 +72,9 @@ class BoussoleRetraiteController
 
             self::bind($stmt, 'ssssssssssssi', $boussole_retraite_data, $lead);
 
-            mysqli_stmt_execute($stmt);
+            $ok = mysqli_stmt_execute($stmt);
             mysqli_stmt_close($stmt);
+            return $ok;
         } catch (\Throwable $th) {
             var_dump($th);
             file_put_contents('update_boussole_retraite_error.txt', $th);
