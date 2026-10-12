@@ -244,6 +244,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["defisc"])) {
                 /**
                  * create lead defiscalisation DATA payload
@@ -267,6 +268,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["insurances"])) {
                 /**
                  * create lead assurance DATA payload
@@ -290,6 +292,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["securities"])) {
                 /**
                  * create lead security DATA payload
@@ -313,6 +316,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["formations"])) {
                 /**
                  * create lead formation DATA payload
@@ -336,6 +340,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["finances"])) {
                 /**
                  * create lead rachat de credits DATA payload
@@ -359,6 +364,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["assurance_auto"])) {
                 /**
                  * create lead assurance_auto DATA payload
@@ -382,6 +388,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["assurance"])) {
                 /**
                  * create lead assurance_sante DATA payload
@@ -408,6 +415,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         $conn
                     );
                 }
+                $send_validation_email = true;
             } elseif (in_array($login_data['partname'], $partners["jeconduis"])) {
                 /**
                  * create lead jeconduis DATA payload
@@ -417,7 +425,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $jeuconduis = JeConduisController::makeJeConduisData($input_data);
                 
                 JeConduisController::save($conn, $lead, $jeuconduis);
-                // No delivery for this module. 
+                // No delivery for this module and no email validation.
+                $send_validation_email = false;
             } elseif (in_array($login_data['partname'], $partners["boussole_retraite"])) {
                 /**
                  * create lead boussole retraite DATA payload
@@ -427,7 +436,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $boussole_retraite = BoussoleRetraiteController::makeBoussoleRetraiteData($input_data);
                 
                 BoussoleRetraiteController::save($conn, $lead, $boussole_retraite);
-                // No delivery for this module. 
+                // No delivery for this module and no email validation.
+                $send_validation_email = false;
             }
 
             if ($last_insert_id) {
@@ -463,7 +473,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 /**
                  * ✅ Envoi email (non bloquant)
                  */
-                if (! empty($emailPayload['email'])) {
+                if (! empty($emailPayload['email']) && $send_validation_email) {
 
                     $chEmail = curl_init("https://budgetdevis.com/accueil/api/lead-confirmation");
                     //$chEmail = curl_init("http://budgetdevis.local/api/lead-confirmation");
