@@ -2,10 +2,8 @@
 
 namespace App\Services;
 
-
 use App\Models\ApiModel as FormationModel;
 use App\Services\Formations\CpfServices;
-
 class SendFormationService
 {
     # leads specifics information
@@ -28,8 +26,6 @@ class SendFormationService
     ) {
         $this->formationModel = new FormationModel($lead, $formation_data, $client_id, $date_of_insert);
     }
-
-
 
     /**
      * Principale send method dispatcher.
@@ -61,5 +57,4 @@ class SendFormationService
                 );
         }
     }
-
 }

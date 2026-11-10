@@ -790,7 +790,7 @@ class PacServices extends \App\Services\ApiService
         $specifics = $travauxModel->getSpecifics();
        
         $url = "https://service.comparer-changer.com/__ws/send_lead.php";
-        //$url = "https://service.comparer-changer.com/__ws/send_lead_test.php";
+        // $url = "https://service.comparer-changer.com/__ws/send_lead_test.php";
         $logfile = "pac_confluent_digital";
         $civModelId = [
             'mr'  => "homme",
@@ -851,7 +851,7 @@ class PacServices extends \App\Services\ApiService
                 'email' => $classics['email'],
                 'birthday' => $birthdateFormatted,
                 // 'phone' => $classics['phone'],
-                'phone' => preg_replace("/^06(\d{8})$/", "+336$1", preg_replace("/[^0-9]/", "", $classics['phone'])),
+                'phone' => preg_replace("/^0([67])(\d{8})$/", "+336$1", preg_replace("/[^0-9]/", "", $classics['phone'])),
                 'home_situation' => $ownerTypeModelId[$classics['situation']],
                 'home_information' => $assetTypeModelId[$specifics['type_logement']],
                 "optin_cgu" => 1,
