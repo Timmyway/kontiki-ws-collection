@@ -92,6 +92,9 @@ class CurrentRequests
         } elseif (in_array($partenaire, $partners["boussole_retraite"])) {
             /* --- for tag = BOUSOLE RETRAITE --- */
             return $begin_query . ' INNER JOIN boussole_retraite ON boussole_retraite.leads_id = leads.id ' . $end_query;
+        } elseif (in_array($partenaire, $partners["energies_comparaison"])) {
+            /* --- for tag = COMPARATEUR D'ENEREGIE --- */
+            return $begin_query . ' INNER JOIN energies ON energies.leads_id = leads.id ' . $end_query;
         } else {
             return '';
         }
@@ -154,8 +157,11 @@ class CurrentRequests
         } elseif (in_array($partenaire, $partners["boussole_retraite"])) {
             /* --- for tag = BOUSSOLE_RETRAITE --- */
             return $begin_query . ' boussole_retraite.tranche_age, boussole_retraite.preoccupation, boussole_retraite.preparation, boussole_retraite.connaissances, boussole_retraite.risque, boussole_retraite.statut_logement, boussole_retraite.revenu, boussole_retraite.capacite_epargne, boussole_retraite.profile_id, boussole_retraite.profile_name, boussole_retraite.lead_temperature, boussole_retraite.tags FROM leads INNER JOIN boussole_retraite ON boussole_retraite.leads_id = leads.id ' . $end_query;
+        } elseif (in_array($partenaire, $partners["energies_comparaison"])) {
+            /* --- for tag = ENERGIES COMPARAISON --- */
+            return $begin_query . ' energies.type_energie, energies.montant_approximatif_facture, energies.type_fournisseur_actuel, energies.statut_logement, energies.type_logement, energies.surface_approximative_logement, energies.nombre_personne_foyer, energies.list_projet FROM leads INNER JOIN energies ON energies.leads_id = leads.id ' . $end_query;
         } else {
-            return '';
+            return "";
         }
     }
 
