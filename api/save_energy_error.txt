@@ -1,0 +1,5 @@
+mysqli_sql_exception: Column 'statut_logement' specified twice in C:\Users\test-2\Desktop\TOMMY\MANAGED\WS-COLLECTIONS\kontiki-ws-collections\app\Controllers\EnergiesController.php:44
+Stack trace:
+#0 C:\Users\test-2\Desktop\TOMMY\MANAGED\WS-COLLECTIONS\kontiki-ws-collections\app\Controllers\EnergiesController.php(44): mysqli_prepare(Object(mysqli), 'INSERT INTO ene...')
+#1 C:\Users\test-2\Desktop\TOMMY\MANAGED\WS-COLLECTIONS\kontiki-ws-collections\api\insert.php(450): App\Controllers\EnergiesController::save(Object(mysqli), Array, Array)
+#2 {main}

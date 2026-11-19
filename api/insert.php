@@ -13,6 +13,7 @@ use App\Controllers\SecurityController;
 use App\Controllers\TravauxController;
 use App\Controllers\JeConduisController;
 use App\Controllers\BoussoleRetraiteController;
+use App\Controllers\EnergiesController;
 
 use App\Providers\CityProvider;
 use App\Providers\DeliveryDestinationProvider;
@@ -438,6 +439,31 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 BoussoleRetraiteController::save($conn, $lead, $boussole_retraite);
                 // No delivery for this module and no email validation.
                 $send_validation_email = false;
+            } elseif (in_array($login_data['partname'], $partners["energies"])) {
+                /**
+                 * create lead boussole retraite DATA payload
+                 * then save the payload to the "boussole_retraite" table of the DB.
+                 */
+                
+                $energies_data = EnergiesController::MakeEnergiesData($input_data);
+                
+                EnergiesController::save($conn, $lead, $energies_data);
+                // if delivery mode is SET, deliver lead directly
+                if (! empty($deliverable)) {
+                    /**
+                     * Dispatch direct delivery to their clients
+                     */
+                    DeliveryDestinationProvider::dispacth(
+                        $deliverable,
+                        $lead,
+                        $data,
+                        TimeProvider::getTime(),
+                        $login_data['partname'],
+                        $clients,
+                        $conn
+                    );
+                }
+                $send_validation_email = true;
             }
 
             if ($last_insert_id) {
