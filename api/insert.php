@@ -439,7 +439,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 BoussoleRetraiteController::save($conn, $lead, $boussole_retraite);
                 // No delivery for this module and no email validation.
                 $send_validation_email = false;
-            } elseif (in_array($login_data['partname'], $partners["energies"])) {
+            } elseif (in_array($login_data['partname'], $partners["energies_comparaison"])) {
                 /**
                  * create lead boussole retraite DATA payload
                  * then save the payload to the "boussole_retraite" table of the DB.
